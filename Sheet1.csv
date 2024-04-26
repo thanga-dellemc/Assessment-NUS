@@ -1,0 +1,1035 @@
+ID,Call Duration,Call Frequency,Financial Loss,Flagged by Carrier,Is International,Previous Contact Count,Country Prefix,Call Type,Timestamp,Device Battery,Scam Call
+737062,-100,16,75.54718728,Unlikely,Yes,0,95,Whats App,2024-03-02 8:53:00,Fully Charged,Not Scam
+986243,46,6,44.25070418,Unlikely,Yes,0,91,Mobile,2023-10-31 3:35:00,Not Charging,Not Scam
+597621,-24,4,686.15,Very Suspicious,Yes,5,MM,WhatsApp,2023-04-26 4:11:00,Not Charging,Scam
+639141,-45,14,63.73747672,Unlikely,No,1,65,Whats App,2023-04-07 18:18:00,Charging,Not Scam
+733580,-40,19,742.75,Suspicious,Yes,2,MM,Whats App,2023-06-26 11:55:00,Not Charging,Scam
+175903,-137,14,32.18206469,Unlikely,Yes,0,7,Mobile,2024-03-08 1:01:00,Not Charging,Not Scam
+103269,-115,4,0,Unlikely,Yes,0,91,WhatsApp,2024-03-18 22:06:00,Charging,Scam
+865623,603,19,27.3,Unlikely,Yes,0,MM,Mobile,2023-09-26 13:51:00,Fully Charged,Scam
+750135,-41,7,23.5148912,Very Suspicious,Yes,0,44,WhatsApp,2023-05-31 3:57:00,Not Charging,Not Scam
+184795,-46,4,30.93670747,Very Suspicious,Yes,2,MM,Whats App,2023-06-22 21:12:00,Charging,Not Scam
+867527,280,21,0,Unlikely,Yes,0,7,Whats App,2023-05-15 4:32:00,Charging,Scam
+828105,30,12,0,Suspicious,Yes,3,7,WhatsApp,2023-04-02 20:34:00,Not Charging,Scam
+982130,120,3,,Suspicious,Yes,0,95,WhatsApp,2023-09-04 18:30:00,Fully Charged,Not Scam
+489589,-126,7,0,Unlikely,Yes,0,44,Landline,2023-04-24 4:53:00,Not Charging,Not Scam
+292984,-33,10,0,Unlikely,Yes,1,91,Mobile,2023-02-03 17:07:00,Not Charging,Scam
+903537,-563,4,64.2874777,Unlikely,Yes,3,91,Telegram,2023-02-25 10:41:00,Fully Charged,Not Scam
+248580,33,15,,Unlikely,Yes,4,1,Voip,2023-02-04 10:16:00,Not Charging,Not Scam
+851167,268,14,84.23428178,Unlikely,Yes,0,44,Telegram,2023-10-30 23:11:00,Not Charging,Not Scam
+253087,-112,14,362.4,Unlikely,Yes,0,91,Whats App,2023-09-07 10:02:00,Charging,Scam
+879565,117,3,0,Unlikely,Yes,2,MM,Telegram,2023-02-19 0:32:00,Fully Charged,Scam
+428774,-37,15,414.61,Very Suspicious,No,1,65,Voip,2023-12-10 21:46:00,Not Charging,Scam
+296584,-326,3,562.81,Suspicious,Yes,3,7,Landline,2023-04-17 11:06:00,Charging,Scam
+161853,-541,6,0,Unlikely,Yes,0,44,Whats App,2023-01-28 10:27:00,Charging,Scam
+515170,43,18,,Unlikely,Yes,2,7,Landline,2023-01-03 10:07:00,Charging,Not Scam
+832431,-26,6,496.82,Suspicious,Yes,0,MM,Landline,2023-07-17 10:54:00,Not Charging,Scam
+425175,140,6,0,Unlikely,Yes,0,91,Telegram,2023-07-05 2:22:00,Charging,Not Scam
+475788,28,4,-633.99,Very Suspicious,Yes,1,1,Mobile,2023-04-07 21:45:00,Charging,Scam
+909445,32,9,624.6,Suspicious,Yes,4,65,Voip,2023-02-11 21:57:00,Fully Charged,Scam
+802259,113,18,,Very Suspicious,Yes,7,1,Mobile,2023-10-02 13:12:00,Fully Charged,Not Scam
+496033,116,15,,Unlikely,Yes,4,7,Voip,2023-05-03 14:32:00,Fully Charged,Not Scam
+730960,621,3,11.74,Suspicious,Yes,0,MM,Landline,2023-08-04 0:16:00,Fully Charged,Scam
+806410,-27,4,102.45,Suspicious,Yes,0,MM,Voip,2024-03-22 1:31:00,Not Charging,Scam
+481032,-127,9,,Unlikely,Yes,0,1,Landline,2023-07-11 17:04:00,Charging,Not Scam
+507774,505,4,0,Unlikely,Yes,5,44,Telegram,2024-02-13 0:33:00,Charging,Not Scam
+217243,233,7,0,Unlikely,Yes,0,91,Telegram,2023-08-06 7:21:00,Fully Charged,Scam
+708875,-151,9,0,Unlikely,Yes,0,91,Mobile,2023-02-05 3:58:00,Fully Charged,Not Scam
+724051,584,9,,Unlikely,Yes,1,1,Mobile,2023-04-24 11:05:00,Fully Charged,Not Scam
+350034,-54,23,0,Unlikely,Yes,3,44,Telegram,2023-09-08 13:19:00,Charging,Not Scam
+582955,674,19,0,Unlikely,Yes,1,91,Voip,2023-07-31 6:58:00,Not Charging,Not Scam
+769898,26,7,0,Unlikely,Yes,5,91,Voip,2023-11-25 19:23:00,Charging,Scam
+788272,-130,22,0,Unlikely,No,1,65,Whats App,2023-07-02 11:39:00,Fully Charged,Scam
+618080,-268,20,0,Unlikely,Yes,1,1,WhatsApp,2023-09-02 23:58:00,Not Charging,Scam
+886210,-24,21,0,Unlikely,Yes,2,44,Voip,2023-02-07 6:29:00,Not Charging,Scam
+514624,-336,13,94.65840802,Suspicious,Yes,5,1,Mobile,2023-01-02 5:41:00,Fully Charged,Not Scam
+668794,150,20,0,Unlikely,Yes,5,44,Telegram,2023-01-06 21:37:00,Not Charging,Not Scam
+602853,52,23,21.19013383,Unlikely,Yes,2,1,Voip,2023-06-07 12:41:00,Fully Charged,Not Scam
+194429,46,9,18.18466751,Unlikely,Yes,3,1,Whats App,2024-03-01 18:25:00,Not Charging,Not Scam
+907027,338,4,0,Unlikely,Yes,0,MM,Mobile,2023-01-20 4:31:00,Fully Charged,Scam
+486007,277,3,,Unlikely,No,4,65,Mobile,2024-02-08 6:07:00,Charging,Not Scam
+341616,341,15,0,Unlikely,Yes,0,1,WhatsApp,2023-06-12 5:28:00,Fully Charged,Not Scam
+380900,-34,6,0,Unlikely,Yes,0,95,WhatsApp,2023-03-30 3:56:00,Charging,Not Scam
+792848,297,15,20.95,Suspicious,Yes,0,MM,Voip,2023-11-06 0:03:00,Not Charging,Scam
+351352,633,23,0,Suspicious,Yes,1,1,Voip,2023-05-07 14:53:00,Charging,Scam
+501684,43,10,0,Suspicious,Yes,0,44,Voip,2023-10-23 21:40:00,Not Charging,Not Scam
+663713,-30,14,0,Unlikely,Yes,0,MM,Telegram,2023-01-26 6:43:00,Charging,Scam
+929808,117,4,0,Unlikely,Yes,4,91,Whats App,2024-02-23 4:39:00,Fully Charged,Scam
+373353,339,9,0,Unlikely,Yes,0,1,Telegram,2023-05-22 15:35:00,Fully Charged,Not Scam
+907049,654,22,0,Unlikely,Yes,2,91,Whats App,2023-08-26 0:46:00,Charging,Scam
+536808,112,3,774.91,Unlikely,Yes,0,44,Landline,2023-04-02 10:05:00,Not Charging,Scam
+441679,533,20,0,Unlikely,Yes,0,91,Telegram,2023-02-16 3:43:00,Charging,Scam
+489770,305,3,147.02,Unlikely,Yes,1,91,Voip,2024-03-07 1:31:00,Charging,Scam
+308732,112,7,610.89,Very Suspicious,Yes,4,7,Mobile,2023-07-20 11:37:00,Charging,Scam
+513966,-579,3,35.39,Unlikely,Yes,4,7,WhatsApp,2023-04-24 6:15:00,Not Charging,Scam
+687185,145,6,228.19,Very Suspicious,Yes,0,1,Telegram,2024-03-28 21:47:00,Charging,Scam
+173635,-30,9,0,Unlikely,No,0,65,Voip,2024-02-25 10:02:00,Fully Charged,Not Scam
+274974,-299,2,0,Unlikely,Yes,0,95,Whats App,2023-05-01 20:16:00,Charging,Scam
+409095,117,19,0,Unlikely,No,2,65,Voip,2023-06-23 17:11:00,Charging,Not Scam
+899371,-47,6,39.92238426,Unlikely,Yes,0,44,Whats App,2023-10-14 1:43:00,Charging,Not Scam
+489503,569,15,67.72934207,Unlikely,Yes,4,95,Telegram,2023-12-27 9:49:00,Fully Charged,Not Scam
+758145,35,10,109.08,Unlikely,Yes,2,44,Whats App,2023-06-14 16:21:00,Not Charging,Scam
+764080,-42,10,0,Unlikely,Yes,1,1,Voip,2023-05-09 5:50:00,Fully Charged,Scam
+964913,-120,10,,Very Suspicious,Yes,4,95,Telegram,2024-02-15 22:13:00,Charging,Not Scam
+558882,352,7,0,Unlikely,Yes,2,44,Mobile,2023-05-13 19:09:00,Fully Charged,Not Scam
+878935,45,3,-37.25,Suspicious,Yes,0,7,Whats App,2023-09-22 5:03:00,Fully Charged,Scam
+436846,-331,21,85.6761147,Unlikely,Yes,1,95,Voip,2024-03-06 15:02:00,Charging,Scam
+576385,-25,23,55.67071243,Unlikely,Yes,3,95,Whats App,2023-08-24 21:41:00,Charging,Scam
+918452,-43,22,110.3,Unlikely,Yes,1,MM,Telegram,2023-11-22 22:35:00,Fully Charged,Scam
+257344,40,7,368.24,Very Suspicious,Yes,2,1,Voip,2024-03-15 10:04:00,Not Charging,Scam
+419656,618,8,0,Suspicious,Yes,4,91,Telegram,2023-02-27 1:12:00,Fully Charged,Not Scam
+861382,-574,9,8.926931156,Unlikely,Yes,2,65,Mobile,2024-02-09 11:46:00,Charging,Not Scam
+658827,48,7,0,Unlikely,Yes,4,91,WhatsApp,2023-12-23 21:53:00,Not Charging,Not Scam
+644499,-130,9,147.14,Very Suspicious,Yes,1,7,Mobile,2023-08-07 22:37:00,Charging,Scam
+975660,47,10,266.05,Suspicious,Yes,5,MM,Mobile,2023-11-01 13:02:00,Fully Charged,Scam
+146725,304,15,70.91917154,Unlikely,Yes,1,1,Landline,2023-08-09 9:42:00,Not Charging,Not Scam
+189581,103,3,12.78,Unlikely,Yes,1,MM,WhatsApp,2024-01-28 4:33:00,Fully Charged,Scam
+748671,638,6,37.3723029,Unlikely,Yes,4,95,Voip,2023-05-18 12:38:00,Fully Charged,Not Scam
+601493,111,3,0,Unlikely,Yes,4,1,Mobile,2023-09-14 4:32:00,Not Charging,Not Scam
+585873,-40,11,0,Unlikely,Yes,1,95,Whats App,2024-02-09 21:46:00,Charging,Not Scam
+547413,119,11,13.63,Unlikely,Yes,0,95,Whats App,2024-01-16 17:41:00,Fully Charged,Scam
+184360,97,20,0,Unlikely,Yes,0,1,Landline,2023-06-13 14:38:00,Not Charging,Not Scam
+222358,139,4,,Unlikely,No,4,65,Telegram,2023-03-13 15:21:00,Fully Charged,Not Scam
+776942,31,4,0,Unlikely,Yes,0,91,Telegram,2023-11-30 23:43:00,Charging,Not Scam
+672967,35,3,0,Unlikely,Yes,0,44,Whats App,2023-08-24 6:59:00,Charging,Not Scam
+623274,32,10,47.72931858,Unlikely,Yes,3,91,Voip,2023-03-28 14:41:00,Fully Charged,Not Scam
+360044,-664,23,45.89339775,Unlikely,Yes,2,1,Landline,2023-02-22 9:51:00,Not Charging,Not Scam
+993358,30,22,0.656009375,Unlikely,Yes,4,7,Voip,2023-04-15 6:23:00,Charging,Not Scam
+474890,-263,10,90.32756885,Unlikely,Yes,2,7,WhatsApp,2023-09-22 10:42:00,Charging,Not Scam
+813407,-98,4,0,Suspicious,Yes,1,65,Whats App,2023-12-05 14:58:00,Not Charging,Not Scam
+987469,605,18,0,Unlikely,Yes,3,7,Mobile,2023-11-06 1:32:00,Charging,Not Scam
+744018,296,7,29.82,Unlikely,Yes,3,1,Whats App,2023-10-19 10:06:00,Not Charging,Scam
+850817,262,3,49.29392574,Unlikely,Yes,1,91,Voip,2023-09-14 22:19:00,Charging,Not Scam
+807914,28,15,0,Very Suspicious,Yes,0,91,Telegram,2023-07-13 15:02:00,Fully Charged,Not Scam
+441420,526,20,26.13402191,Unlikely,Yes,0,91,Mobile,2023-04-21 18:48:00,Fully Charged,Not Scam
+863646,41,23,301.49,Unlikely,Yes,0,91,Whats App,2023-09-10 9:06:00,Not Charging,Scam
+252166,29,8,0,Unlikely,Yes,3,44,Voip,2023-10-26 15:01:00,Charging,Not Scam
+266722,-104,4,-468.47,Suspicious,Yes,1,1,Voip,2023-05-03 14:54:00,Fully Charged,Scam
+672858,-28,6,26.54238437,Unlikely,Yes,4,1,Mobile,2023-02-02 5:13:00,Charging,Not Scam
+744887,49,10,21.56,Unlikely,Yes,0,65,Voip,2023-04-18 1:57:00,Charging,Scam
+987574,-29,7,13.30665413,Unlikely,Yes,4,7,Whats App,2023-11-28 11:56:00,Not Charging,Not Scam
+549455,-651,3,0,Unlikely,Yes,2,91,Whats App,2024-03-27 9:35:00,Not Charging,Scam
+629412,-21,19,88.14667046,Unlikely,Yes,5,95,WhatsApp,2023-11-13 1:18:00,Not Charging,Not Scam
+682073,132,13,4.206197032,Unlikely,Yes,2,44,Mobile,2023-09-28 20:49:00,Fully Charged,Not Scam
+704971,33,13,,Very Suspicious,Yes,2,1,Mobile,2024-03-10 10:15:00,Charging,Not Scam
+430971,-30,19,82.18,Unlikely,Yes,0,1,Voip,2023-03-18 18:30:00,Fully Charged,Scam
+968624,123,6,381.35,Suspicious,Yes,2,MM,Telegram,2023-11-03 22:32:00,Fully Charged,Scam
+460849,-308,18,0,Suspicious,Yes,3,44,Voip,2023-09-30 17:46:00,Not Charging,Not Scam
+396285,608,15,0,Unlikely,Yes,3,7,Voip,2024-01-17 11:37:00,Fully Charged,Not Scam
+742511,-44,20,731.64,Suspicious,Yes,3,7,Whats App,2024-02-10 21:09:00,Not Charging,Scam
+310959,-144,3,12.27380561,Unlikely,Yes,2,95,Landline,2023-01-13 0:34:00,Charging,Not Scam
+775114,112,3,90.40386752,Unlikely,Yes,3,44,Mobile,2023-10-05 16:48:00,Not Charging,Not Scam
+704946,-264,6,57.14993914,Unlikely,Yes,6,7,Voip,2023-08-01 20:19:00,Fully Charged,Not Scam
+384520,-311,10,0,Unlikely,Yes,2,91,Whats App,2023-05-23 6:43:00,Fully Charged,Not Scam
+933788,298,13,0,Unlikely,Yes,2,95,Mobile,2024-03-06 14:12:00,Fully Charged,Not Scam
+860742,30,18,47.03625506,Unlikely,Yes,2,95,Telegram,2023-02-11 13:44:00,Fully Charged,Not Scam
+275189,-261,13,0,Unlikely,Yes,0,44,WhatsApp,2023-05-24 12:49:00,Not Charging,Scam
+306161,-48,6,33.00638743,Unlikely,No,3,65,WhatsApp,2023-05-02 6:40:00,Fully Charged,Not Scam
+379568,41,7,3.310276437,Very Suspicious,Yes,1,91,Mobile,2023-04-02 10:50:00,Fully Charged,Not Scam
+760249,-43,6,,Unlikely,Yes,4,7,Voip,2023-08-06 8:05:00,Not Charging,Not Scam
+776765,-267,17,0,Unlikely,Yes,0,91,Telegram,2023-02-19 23:12:00,Charging,Not Scam
+925506,29,6,,Unlikely,Yes,3,44,Voip,2023-08-28 4:19:00,Fully Charged,Not Scam
+488168,130,3,,Unlikely,Yes,0,1,WhatsApp,2023-12-09 17:20:00,Not Charging,Not Scam
+462351,550,14,0,Unlikely,Yes,0,91,WhatsApp,2023-05-03 2:04:00,Charging,Not Scam
+746536,569,4,722.68,Suspicious,No,3,65,WhatsApp,2023-10-25 10:37:00,Not Charging,Scam
+559391,114,23,21.75693629,Unlikely,Yes,2,91,Whats App,2023-09-12 1:55:00,Charging,Scam
+217787,-305,7,484.32,Very Suspicious,Yes,4,44,Mobile,2023-05-25 18:05:00,Not Charging,Scam
+676598,269,11,,Unlikely,Yes,0,91,Mobile,2023-10-16 1:55:00,Fully Charged,Not Scam
+938374,115,7,22.54687327,Unlikely,Yes,6,MM,Whats App,2024-02-20 20:25:00,Not Charging,Not Scam
+435061,31,12,44.17297163,Unlikely,No,0,65,Landline,2023-08-05 14:05:00,Not Charging,Not Scam
+244583,33,3,0,Unlikely,Yes,6,1,Whats App,2023-11-15 22:19:00,Charging,Not Scam
+530647,132,9,71.05667851,Unlikely,Yes,3,95,WhatsApp,2023-05-21 20:44:00,Fully Charged,Not Scam
+734453,-302,7,98.00632805,Unlikely,Yes,0,95,Whats App,2023-08-02 6:34:00,Charging,Not Scam
+315698,341,4,0,Unlikely,Yes,2,65,Whats App,2023-11-09 13:52:00,Charging,Scam
+378073,42,7,0,Unlikely,Yes,2,44,WhatsApp,2023-09-12 18:01:00,Fully Charged,Not Scam
+968640,-122,17,0,Unlikely,Yes,2,65,Voip,2023-07-20 14:27:00,Not Charging,Not Scam
+817738,33,20,40.05521071,Unlikely,Yes,0,1,Mobile,2023-09-16 16:18:00,Fully Charged,Not Scam
+607008,28,9,0,Unlikely,Yes,3,91,Voip,2024-01-26 20:55:00,Not Charging,Scam
+328193,-276,11,0,Unlikely,No,2,65,Whats App,2023-03-14 12:50:00,Charging,Not Scam
+618690,-259,13,-8.653756274,Unlikely,Yes,1,1,WhatsApp,2023-07-19 12:41:00,Charging,Not Scam
+502071,50,18,173.12,Unlikely,Yes,3,MM,Whats App,2023-08-18 17:19:00,Charging,Scam
+183129,118,10,390.86,Suspicious,Yes,0,91,WhatsApp,2024-01-12 11:11:00,Charging,Scam
+832293,47,3,75.99,Unlikely,Yes,0,91,WhatsApp,2023-03-06 9:38:00,Fully Charged,Scam
+125840,-367,6,,Suspicious,Yes,1,7,Mobile,2023-10-17 16:37:00,Not Charging,Not Scam
+782766,-33,7,0,Suspicious,Yes,4,MM,Telegram,2023-10-30 4:15:00,Fully Charged,Not Scam
+157155,126,11,,Unlikely,Yes,5,44,Voip,2023-12-02 7:16:00,Fully Charged,Not Scam
+980246,668,15,37.96633076,Unlikely,Yes,1,65,Mobile,2023-06-10 15:06:00,Not Charging,Not Scam
+355604,-133,20,,Unlikely,Yes,3,MM,Mobile,2023-02-14 20:52:00,Charging,Not Scam
+407941,29,9,29.94522124,Unlikely,Yes,6,65,Mobile,2023-11-20 3:54:00,Fully Charged,Not Scam
+861395,42,20,0,Unlikely,Yes,0,95,Mobile,2023-09-13 2:56:00,Not Charging,Scam
+212324,32,8,29.82,Unlikely,Yes,6,91,Voip,2024-03-08 23:10:00,Fully Charged,Scam
+501447,38,6,0,Unlikely,Yes,1,1,Landline,2023-09-03 20:48:00,Fully Charged,Not Scam
+349777,32,7,0,Unlikely,Yes,5,91,Mobile,2023-09-01 20:51:00,Charging,Not Scam
+166888,499,4,-511.32,Very Suspicious,Yes,2,91,Telegram,2024-01-08 11:48:00,Not Charging,Scam
+660763,-109,11,92.40619602,Unlikely,Yes,2,91,Telegram,2023-07-17 6:24:00,Not Charging,Not Scam
+761987,118,10,66.38289173,Unlikely,Yes,1,1,Mobile,2023-10-03 18:05:00,Charging,Not Scam
+414022,49,21,39.72,Suspicious,Yes,1,44,Voip,2023-04-17 6:51:00,Fully Charged,Scam
+458943,616,9,0,Unlikely,Yes,0,MM,Whats App,2024-02-17 9:59:00,Fully Charged,Scam
+144854,-29,12,0,Unlikely,Yes,5,MM,Mobile,2023-05-20 15:01:00,Fully Charged,Not Scam
+163017,285,15,,Unlikely,Yes,2,7,Whats App,2023-08-28 19:49:00,Fully Charged,Not Scam
+166433,-125,16,0,Unlikely,Yes,2,95,Voip,2023-03-11 16:45:00,Not Charging,Scam
+424251,336,21,92.10913203,Unlikely,Yes,3,1,Mobile,2023-05-16 21:00:00,Fully Charged,Not Scam
+393338,-328,16,0,Unlikely,Yes,1,1,Whats App,2024-01-15 6:03:00,Not Charging,Not Scam
+452975,43,3,0,Unlikely,Yes,5,7,Landline,2024-02-07 14:45:00,Not Charging,Not Scam
+985082,-41,11,37.67937079,Suspicious,Yes,1,91,Mobile,2023-03-02 15:57:00,Not Charging,Not Scam
+560709,47,19,44.92889209,Unlikely,Yes,5,65,Mobile,2023-04-28 19:26:00,Charging,Not Scam
+693985,-99,4,63.8595601,Unlikely,Yes,1,65,Telegram,2023-12-30 9:54:00,Not Charging,Not Scam
+791083,-119,4,,Unlikely,Yes,1,7,Landline,2023-10-11 9:34:00,Not Charging,Not Scam
+568101,-573,23,0,Suspicious,Yes,6,1,Telegram,2024-01-22 19:48:00,Not Charging,Not Scam
+482199,-113,20,24.60439798,Unlikely,No,0,65,Landline,2023-09-15 1:11:00,Not Charging,Not Scam
+650671,-676,6,,Unlikely,Yes,1,7,Mobile,2023-07-29 6:03:00,Not Charging,Not Scam
+866894,322,14,0,Unlikely,No,0,65,WhatsApp,2023-05-02 10:21:00,Not Charging,Not Scam
+431523,-47,4,,Unlikely,Yes,4,1,Whats App,2023-08-17 8:53:00,Charging,Not Scam
+192856,-343,12,0,Unlikely,Yes,2,1,Voip,2023-11-04 21:45:00,Charging,Not Scam
+602318,-560,21,486.82,Suspicious,Yes,2,1,Landline,2023-08-03 22:24:00,Fully Charged,Scam
+101266,-120,19,36.88102927,Unlikely,Yes,0,1,Telegram,2023-07-24 21:53:00,Not Charging,Not Scam
+906169,274,22,0,Unlikely,Yes,0,7,Mobile,2023-09-07 14:11:00,Not Charging,Not Scam
+278809,47,6,82.16572045,Unlikely,No,0,65,Landline,2023-11-03 14:21:00,Charging,Not Scam
+702940,-314,6,20.32221758,Unlikely,Yes,0,7,Mobile,2023-10-01 13:28:00,Not Charging,Not Scam
+438748,43,5,249.23,Unlikely,Yes,3,MM,Voip,2023-04-16 11:10:00,Fully Charged,Scam
+771747,315,10,10.71,Suspicious,Yes,0,MM,Voip,2023-02-06 20:41:00,Fully Charged,Scam
+364942,-35,15,0,Very Suspicious,Yes,0,44,WhatsApp,2023-01-05 21:59:00,Charging,Not Scam
+354772,512,18,148.26,Unlikely,Yes,0,95,Voip,2023-09-04 4:13:00,Charging,Scam
+433615,-272,17,0,Unlikely,Yes,0,95,Landline,2023-10-24 12:31:00,Fully Charged,Not Scam
+543592,48,6,0,Very Suspicious,Yes,1,95,Voip,2024-01-19 8:29:00,Charging,Not Scam
+586395,117,4,,Unlikely,Yes,0,91,Mobile,2024-01-21 12:27:00,Fully Charged,Not Scam
+170089,-42,4,0,Unlikely,Yes,2,44,Voip,2023-05-17 20:18:00,Charging,Not Scam
+494887,-480,8,87.28558063,Unlikely,Yes,0,MM,Landline,2024-03-24 11:01:00,Not Charging,Not Scam
+431307,554,22,0,Unlikely,Yes,0,95,Mobile,2023-03-13 2:40:00,Fully Charged,Not Scam
+141348,-604,3,48.52320341,Unlikely,Yes,1,44,Mobile,2024-02-24 1:08:00,Not Charging,Not Scam
+349811,21,7,740.45,Very Suspicious,Yes,2,1,Voip,2023-06-16 22:45:00,Not Charging,Scam
+702105,-298,6,0,Very Suspicious,Yes,0,95,Whats App,2023-10-07 1:15:00,Not Charging,Not Scam
+996993,42,6,0,Unlikely,Yes,2,91,Mobile,2023-12-12 8:36:00,Charging,Not Scam
+384965,47,16,,Unlikely,Yes,4,MM,Landline,2023-05-30 10:53:00,Charging,Not Scam
+586056,568,8,,Unlikely,Yes,2,1,WhatsApp,2023-10-09 18:08:00,Charging,Not Scam
+173317,-539,22,0,Unlikely,Yes,2,7,Mobile,2023-06-03 8:05:00,Fully Charged,Not Scam
+389077,-38,22,240.93,Very Suspicious,Yes,1,MM,Telegram,2024-02-22 2:23:00,Not Charging,Scam
+829386,115,3,-417.72,Suspicious,Yes,1,91,Voip,2023-11-22 11:49:00,Fully Charged,Scam
+221388,-32,7,60.01991299,Unlikely,Yes,0,65,Mobile,2024-03-16 14:01:00,Not Charging,Not Scam
+422678,120,7,,Unlikely,Yes,1,1,Voip,2023-03-13 2:16:00,Charging,Not Scam
+525494,-46,8,0,Suspicious,Yes,0,95,WhatsApp,2023-09-08 0:00:00,Fully Charged,Scam
+601678,-48,19,900.4,Unlikely,Yes,3,7,Whats App,2023-12-19 22:01:00,Fully Charged,Scam
+536434,-246,8,,Very Suspicious,Yes,0,MM,Mobile,2024-01-14 15:34:00,Not Charging,Not Scam
+635409,570,6,164.47,Unlikely,Yes,3,MM,Whats App,2023-08-01 12:31:00,Charging,Scam
+381533,-270,4,77.40189635,Unlikely,Yes,5,95,Mobile,2023-04-17 3:59:00,Charging,Not Scam
+209041,-40,9,391.26,Suspicious,Yes,2,44,WhatsApp,2023-10-27 5:59:00,Charging,Scam
+594226,32,6,0,Unlikely,Yes,1,7,Voip,2023-05-07 14:54:00,Fully Charged,Not Scam
+937884,-29,10,201.02,Unlikely,Yes,0,91,Voip,2023-09-06 8:07:00,Fully Charged,Scam
+790811,629,18,308.55,Unlikely,Yes,4,MM,Voip,2023-06-20 23:29:00,Charging,Scam
+763876,676,6,0,Unlikely,Yes,4,65,Voip,2023-09-03 16:55:00,Charging,Not Scam
+443539,-601,15,0,Suspicious,Yes,2,95,Voip,2023-07-09 14:23:00,Not Charging,Scam
+719141,-318,18,73.67,Unlikely,Yes,2,95,Mobile,2023-06-23 16:31:00,Not Charging,Scam
+516950,-113,11,281.45,Unlikely,Yes,0,7,Landline,2024-02-26 11:55:00,Fully Charged,Scam
+378994,-119,15,6.09930655,Unlikely,Yes,3,1,Landline,2024-03-20 2:14:00,Fully Charged,Not Scam
+906094,-27,6,0,Unlikely,Yes,0,7,Voip,2023-06-27 12:26:00,Fully Charged,Not Scam
+672763,-48,13,392.32,Unlikely,Yes,0,91,Whats App,2023-12-13 1:35:00,Charging,Scam
+874363,-439,3,0,Unlikely,Yes,1,7,Landline,2023-05-30 6:42:00,Not Charging,Not Scam
+505651,107,3,20.16803193,Unlikely,Yes,4,65,Mobile,2024-01-16 16:00:00,Charging,Not Scam
+116613,-47,4,36.44,Unlikely,Yes,1,1,Voip,2023-09-21 12:07:00,Not Charging,Scam
+106212,630,9,516.37,Suspicious,Yes,0,MM,Whats App,2023-06-08 9:06:00,Charging,Scam
+682043,121,7,10.69,Unlikely,Yes,1,MM,Mobile,2023-11-05 17:17:00,Not Charging,Scam
+464880,34,10,1.007698701,Suspicious,Yes,5,91,Landline,2023-10-23 21:06:00,Fully Charged,Not Scam
+199051,-40,3,352.16,Suspicious,Yes,0,91,Landline,2023-02-10 0:17:00,Fully Charged,Scam
+604315,-41,17,0,Unlikely,Yes,1,MM,Whats App,2023-07-29 0:57:00,Charging,Scam
+384025,-132,13,0,Unlikely,Yes,2,7,WhatsApp,2023-08-09 9:41:00,Fully Charged,Scam
+184590,119,23,,Very Suspicious,Yes,0,95,Landline,2023-12-04 11:58:00,Not Charging,Not Scam
+698746,35,20,0,Unlikely,Yes,1,95,Landline,2023-12-27 6:42:00,Charging,Scam
+368058,-131,4,2.214271435,Unlikely,Yes,3,44,Landline,2023-10-27 12:51:00,Charging,Not Scam
+192750,-128,9,0,Unlikely,Yes,2,91,Landline,2023-05-26 14:31:00,Charging,Scam
+379744,31,4,23.08056674,Unlikely,Yes,4,44,Landline,2023-09-11 5:46:00,Not Charging,Not Scam
+415708,710,15,48.28709674,Unlikely,Yes,3,91,Voip,2023-04-23 6:12:00,Not Charging,Not Scam
+753068,-46,15,422.75,Suspicious,Yes,0,44,WhatsApp,2023-08-17 11:19:00,Charging,Scam
+257738,-113,22,0,Unlikely,Yes,3,95,Telegram,2023-05-01 23:50:00,Charging,Not Scam
+492592,-543,4,0,Unlikely,Yes,0,95,Voip,2023-09-18 13:29:00,Charging,Scam
+483775,650,2,111.13,Unlikely,Yes,0,7,Voip,2023-12-08 15:37:00,Charging,Scam
+120339,-30,13,0,Unlikely,Yes,1,7,Mobile,2023-03-12 13:45:00,Charging,Not Scam
+756210,-32,6,0,Unlikely,Yes,1,95,Voip,2024-01-18 23:31:00,Fully Charged,Scam
+589161,307,11,30.44305005,Unlikely,No,2,65,Landline,2023-07-19 10:46:00,Not Charging,Not Scam
+882484,126,12,72.34948833,Unlikely,No,0,65,Mobile,2023-10-01 17:26:00,Charging,Not Scam
+119356,129,22,688.04,Suspicious,Yes,0,MM,Landline,2023-03-13 11:54:00,Fully Charged,Scam
+467241,46,4,43.49784866,Unlikely,Yes,1,91,Mobile,2023-02-07 15:29:00,Charging,Not Scam
+156863,353,4,94.82178811,Unlikely,Yes,0,91,Whats App,2023-07-31 17:25:00,Fully Charged,Not Scam
+686819,125,8,-12.59153335,Unlikely,Yes,1,7,Telegram,2023-01-13 5:48:00,Charging,Not Scam
+389929,-91,22,0,Unlikely,Yes,1,44,Voip,2024-02-09 19:47:00,Charging,Scam
+681284,38,20,84.71552071,Unlikely,Yes,3,7,Mobile,2023-06-23 7:22:00,Not Charging,Not Scam
+563778,38,17,0,Suspicious,Yes,3,7,Telegram,2023-01-01 8:52:00,Fully Charged,Not Scam
+854723,-273,15,2.777059824,Unlikely,Yes,0,7,Mobile,2023-03-30 1:22:00,Charging,Not Scam
+157064,648,7,,Unlikely,No,2,65,Voip,2023-02-27 2:37:00,Not Charging,Not Scam
+329887,-658,19,,Unlikely,Yes,4,MM,Telegram,2023-11-26 10:02:00,Not Charging,Not Scam
+792893,36,21,13.28884359,Unlikely,Yes,2,MM,Mobile,2023-05-10 5:55:00,Not Charging,Not Scam
+874691,43,4,295.4,Unlikely,Yes,3,44,WhatsApp,2024-02-12 5:29:00,Not Charging,Scam
+980381,-31,7,0,Unlikely,Yes,7,1,Telegram,2024-01-27 7:09:00,Not Charging,Not Scam
+818499,-108,14,,Very Suspicious,Yes,0,65,Voip,2023-03-13 14:53:00,Fully Charged,Not Scam
+216874,39,4,31.80681015,Unlikely,Yes,3,91,Voip,2024-03-07 2:23:00,Charging,Not Scam
+502274,-337,6,0,Unlikely,Yes,1,91,Telegram,2023-01-06 15:39:00,Charging,Not Scam
+569114,-292,7,-248.65,Unlikely,Yes,1,95,Landline,2024-02-08 20:54:00,Not Charging,Scam
+444864,-41,15,415.4,Suspicious,Yes,3,44,Landline,2024-03-08 0:54:00,Charging,Scam
+259646,-112,4,,Very Suspicious,Yes,4,44,Landline,2023-04-24 11:41:00,Charging,Not Scam
+125687,122,3,0,Unlikely,Yes,3,44,Voip,2024-03-03 7:23:00,Not Charging,Not Scam
+821666,109,17,6.56442553,Very Suspicious,Yes,0,91,Mobile,2023-05-09 10:27:00,Not Charging,Not Scam
+512290,499,14,87.27,Unlikely,Yes,5,MM,Whats App,2023-08-14 16:32:00,Fully Charged,Scam
+299724,30,6,98.75242538,Unlikely,Yes,4,1,Whats App,2023-09-19 0:25:00,Charging,Not Scam
+468828,-266,3,0,Unlikely,Yes,0,95,Whats App,2023-08-07 2:58:00,Not Charging,Scam
+720496,-49,9,,Unlikely,Yes,2,MM,Mobile,2024-02-03 5:47:00,Charging,Not Scam
+801200,289,9,-12.77425657,Very Suspicious,Yes,2,1,Mobile,2023-12-19 1:59:00,Charging,Not Scam
+739580,102,14,,Unlikely,Yes,2,44,WhatsApp,2023-10-09 4:32:00,Charging,Not Scam
+625635,44,7,489.05,Suspicious,Yes,2,44,Voip,2024-02-28 10:16:00,Not Charging,Scam
+834105,290,9,373.34,Very Suspicious,Yes,5,91,Voip,2023-12-09 9:39:00,Not Charging,Scam
+795341,-50,6,53.97826544,Unlikely,Yes,5,91,Landline,2023-05-07 10:54:00,Charging,Not Scam
+883596,564,6,0,Unlikely,Yes,4,44,Mobile,2024-02-05 8:54:00,Not Charging,Not Scam
+864837,-83,19,375.83,Unlikely,Yes,4,1,Mobile,2024-02-04 11:53:00,Charging,Scam
+882547,-292,3,0,Unlikely,Yes,0,44,Voip,2023-05-18 6:53:00,Charging,Scam
+637275,-31,3,0,Unlikely,Yes,1,91,Mobile,2023-12-19 0:29:00,Fully Charged,Not Scam
+749631,-31,20,,Unlikely,Yes,3,1,WhatsApp,2023-07-19 22:28:00,Charging,Not Scam
+417734,49,18,,Very Suspicious,Yes,3,MM,Whats App,2023-02-27 11:43:00,Not Charging,Not Scam
+129454,29,10,0,Unlikely,Yes,5,7,Telegram,2023-04-12 22:34:00,Fully Charged,Not Scam
+560675,-536,15,639.51,Unlikely,No,0,65,Mobile,2023-03-05 21:27:00,Charging,Scam
+764698,-46,9,0,Unlikely,Yes,5,95,Whats App,2023-12-15 1:50:00,Not Charging,Scam
+236107,-346,10,0,Unlikely,Yes,0,44,Telegram,2024-02-22 2:40:00,Charging,Not Scam
+254805,29,9,0,Unlikely,Yes,0,1,Voip,2023-08-13 11:40:00,Fully Charged,Not Scam
+997221,119,3,,Unlikely,Yes,3,7,Voip,2023-12-16 21:18:00,Fully Charged,Not Scam
+877679,623,10,,Unlikely,Yes,3,91,Landline,2024-03-13 8:27:00,Charging,Not Scam
+625473,-29,4,0,Unlikely,Yes,3,7,Voip,2024-03-23 16:37:00,Fully Charged,Not Scam
+576300,237,7,0,Unlikely,Yes,2,7,Whats App,2023-02-25 19:07:00,Not Charging,Not Scam
+241948,26,10,,Unlikely,Yes,3,1,Mobile,2023-11-07 14:26:00,Charging,Not Scam
+970548,-584,7,,Suspicious,Yes,5,1,Mobile,2023-07-12 4:17:00,Not Charging,Not Scam
+578621,299,7,22.20366946,Unlikely,Yes,3,65,Landline,2023-10-16 22:17:00,Not Charging,Not Scam
+298602,-603,14,0,Unlikely,Yes,4,1,Mobile,2023-08-17 9:42:00,Not Charging,Not Scam
+456128,661,17,0,Unlikely,Yes,0,1,Voip,2023-05-15 9:47:00,Not Charging,Not Scam
+522987,-299,16,6.64181132,Unlikely,Yes,5,44,Voip,2023-12-14 6:20:00,Fully Charged,Not Scam
+675411,-109,19,,Unlikely,Yes,0,7,Mobile,2024-02-24 1:38:00,Fully Charged,Not Scam
+269001,-621,24,52.6,Unlikely,Yes,5,91,Whats App,2023-12-13 8:10:00,Not Charging,Scam
+162728,48,3,0,Unlikely,No,0,65,Voip,2024-02-16 17:35:00,Charging,Not Scam
+205978,709,21,0,Very Suspicious,Yes,5,91,Telegram,2023-08-26 10:11:00,Charging,Scam
+496526,110,9,0,Very Suspicious,No,1,65,Mobile,2023-06-21 14:35:00,Charging,Not Scam
+485753,-32,12,,Unlikely,Yes,1,44,Landline,2023-03-01 16:24:00,Charging,Not Scam
+888300,234,10,0,Very Suspicious,Yes,4,7,Voip,2023-09-07 10:23:00,Not Charging,Not Scam
+303195,475,12,63.21415172,Suspicious,Yes,5,7,WhatsApp,2023-07-19 21:05:00,Fully Charged,Not Scam
+668750,253,13,15.04,Unlikely,Yes,5,65,Whats App,2023-10-31 23:14:00,Fully Charged,Scam
+379825,-48,10,0,Unlikely,Yes,1,95,Voip,2023-11-28 13:17:00,Not Charging,Scam
+919759,116,10,658.74,Very Suspicious,No,2,65,Telegram,2023-03-15 22:28:00,Charging,Scam
+706537,31,21,538.14,Suspicious,Yes,2,44,Mobile,2024-03-28 22:45:00,Charging,Scam
+626675,561,10,0,Unlikely,Yes,0,44,Landline,2023-02-04 8:24:00,Not Charging,Not Scam
+700413,-283,5,137.72,Unlikely,Yes,3,91,Voip,2024-01-03 19:14:00,Not Charging,Scam
+553936,662,13,0,Unlikely,Yes,0,7,Landline,2023-01-14 10:24:00,Charging,Not Scam
+716968,660,15,59.91649866,Suspicious,Yes,0,91,Telegram,2024-01-25 5:08:00,Fully Charged,Not Scam
+849681,33,6,0,Unlikely,Yes,0,91,Landline,2023-02-18 4:55:00,Charging,Not Scam
+226056,-291,20,5.22,Unlikely,Yes,5,95,Landline,2023-05-07 11:36:00,Not Charging,Scam
+503870,-34,21,0,Unlikely,No,1,65,Landline,2024-03-27 11:24:00,Charging,Not Scam
+870350,39,19,31.58015896,Unlikely,Yes,1,65,Telegram,2023-11-19 18:19:00,Not Charging,Not Scam
+150401,28,9,0,Very Suspicious,Yes,3,1,Landline,2024-03-27 22:35:00,Fully Charged,Not Scam
+528904,-27,10,513.18,Unlikely,Yes,1,1,Voip,2023-08-27 22:58:00,Charging,Scam
+585573,-29,20,,Suspicious,Yes,4,1,Mobile,2023-01-10 9:10:00,Charging,Not Scam
+900013,603,14,3.084139949,Unlikely,Yes,0,1,Landline,2024-03-19 14:05:00,Not Charging,Not Scam
+317581,-115,13,46.54969397,Unlikely,Yes,0,1,Mobile,2023-08-30 5:11:00,Not Charging,Not Scam
+909893,508,8,,Unlikely,Yes,3,65,WhatsApp,2023-03-01 23:33:00,Fully Charged,Not Scam
+158198,131,4,0,Unlikely,Yes,4,91,Mobile,2023-10-19 3:10:00,Charging,Scam
+864240,581,21,,Unlikely,No,0,65,Mobile,2023-03-04 3:07:00,Fully Charged,Not Scam
+679597,30,3,98.62448089,Unlikely,Yes,2,44,Mobile,2023-03-02 4:24:00,Charging,Not Scam
+352001,315,6,0,Unlikely,Yes,3,95,Landline,2024-02-08 19:43:00,Charging,Not Scam
+625304,32,7,0,Suspicious,Yes,1,7,WhatsApp,2023-02-22 20:32:00,Fully Charged,Scam
+749223,107,11,0,Very Suspicious,Yes,2,44,WhatsApp,2023-09-17 10:49:00,Not Charging,Not Scam
+283260,-48,6,44.81072982,Very Suspicious,Yes,3,7,WhatsApp,2023-06-11 20:15:00,Fully Charged,Not Scam
+799785,570,16,0,Unlikely,Yes,0,44,Voip,2023-08-08 14:23:00,Charging,Not Scam
+749930,-700,21,80.49139378,Unlikely,Yes,0,65,Voip,2023-09-05 19:45:00,Charging,Scam
+280306,37,9,0,Unlikely,Yes,3,7,WhatsApp,2023-05-08 4:25:00,Not Charging,Not Scam
+335233,-43,15,0,Unlikely,Yes,2,7,Voip,2023-08-13 21:25:00,Fully Charged,Scam
+802332,-29,8,,Unlikely,Yes,0,7,Whats App,2023-06-03 21:15:00,Fully Charged,Not Scam
+946484,114,5,450.55,Very Suspicious,Yes,5,44,Whats App,2023-01-06 21:22:00,Not Charging,Scam
+766885,593,10,0,Unlikely,Yes,3,7,Mobile,2023-01-12 13:11:00,Charging,Not Scam
+553210,-273,10,0,Unlikely,Yes,3,65,Landline,2023-03-21 0:49:00,Not Charging,Not Scam
+556984,284,3,31.39019885,Unlikely,No,1,65,Telegram,2023-10-19 0:05:00,Charging,Not Scam
+537760,41,15,79.48445309,Unlikely,Yes,0,91,Telegram,2023-05-19 6:25:00,Charging,Not Scam
+318819,40,4,249.06,Suspicious,Yes,1,44,Telegram,2024-01-20 10:17:00,Fully Charged,Scam
+880205,-110,15,158.78,Unlikely,Yes,3,7,WhatsApp,2023-10-11 15:49:00,Not Charging,Scam
+133317,31,13,,Unlikely,Yes,0,7,WhatsApp,2024-01-10 12:54:00,Fully Charged,Not Scam
+412932,31,11,0,Unlikely,Yes,0,MM,Voip,2023-12-06 20:06:00,Not Charging,Not Scam
+901669,337,4,0,Unlikely,Yes,2,65,Whats App,2023-08-20 16:42:00,Fully Charged,Scam
+775734,102,10,20.92686861,Unlikely,Yes,2,44,Whats App,2023-10-09 21:39:00,Fully Charged,Not Scam
+672738,622,7,79.15580668,Unlikely,Yes,0,MM,Mobile,2024-02-27 7:08:00,Charging,Not Scam
+772028,270,11,0,Unlikely,Yes,1,7,Voip,2023-09-18 18:52:00,Fully Charged,Scam
+838968,27,7,,Unlikely,Yes,2,95,Whats App,2024-02-06 21:50:00,Not Charging,Not Scam
+355875,311,10,13.00651203,Unlikely,Yes,2,44,Voip,2023-02-25 17:09:00,Not Charging,Not Scam
+925262,33,8,137.44,Unlikely,Yes,3,MM,Telegram,2024-01-14 7:14:00,Not Charging,Scam
+619078,27,10,0,Very Suspicious,Yes,4,1,Telegram,2023-09-09 22:39:00,Not Charging,Not Scam
+973098,32,12,0,Unlikely,No,0,65,WhatsApp,2023-01-16 13:00:00,Not Charging,Not Scam
+539654,-630,22,0,Unlikely,Yes,3,MM,Landline,2023-08-28 14:02:00,Not Charging,Scam
+853656,-30,14,0,Unlikely,Yes,5,MM,Whats App,2023-06-19 19:25:00,Charging,Not Scam
+589810,665,14,72.23843494,Unlikely,No,2,65,WhatsApp,2023-02-20 7:56:00,Not Charging,Not Scam
+563162,102,10,0,Unlikely,Yes,0,44,Voip,2023-04-03 15:49:00,Not Charging,Not Scam
+739537,28,20,75.29215501,Suspicious,Yes,5,1,Voip,2023-03-06 10:17:00,Fully Charged,Not Scam
+641680,-34,15,8.422794898,Unlikely,Yes,0,1,Mobile,2024-01-11 2:38:00,Charging,Not Scam
+204140,606,19,389.07,Very Suspicious,Yes,2,95,WhatsApp,2023-02-07 13:04:00,Not Charging,Scam
+273246,252,8,,Unlikely,Yes,0,91,Landline,2023-12-31 8:10:00,Not Charging,Not Scam
+157721,314,9,0,Unlikely,Yes,4,91,Landline,2023-04-08 14:26:00,Fully Charged,Not Scam
+406744,-121,6,23.85158514,Suspicious,No,6,65,Telegram,2023-08-04 9:51:00,Not Charging,Not Scam
+697900,-45,3,0,Very Suspicious,Yes,0,7,Voip,2023-03-27 11:57:00,Charging,Not Scam
+643675,22,7,89.25247033,Unlikely,Yes,2,91,Mobile,2024-02-14 6:17:00,Fully Charged,Not Scam
+403017,-45,11,58.58763629,Unlikely,Yes,5,44,Voip,2023-06-28 12:59:00,Charging,Not Scam
+418776,140,15,532.96,Unlikely,Yes,1,7,Landline,2023-12-01 22:31:00,Not Charging,Scam
+897476,-314,4,0,Unlikely,Yes,3,91,Telegram,2024-03-07 22:32:00,Fully Charged,Scam
+444715,138,19,137.77,Unlikely,Yes,3,91,Voip,2023-09-09 19:52:00,Charging,Scam
+226747,353,19,10.27746092,Unlikely,Yes,3,1,Voip,2023-06-05 3:45:00,Charging,Not Scam
+292531,117,4,51.35171271,Unlikely,Yes,0,91,Whats App,2023-08-03 8:36:00,Not Charging,Not Scam
+952862,45,22,48.04922376,Unlikely,Yes,0,65,Landline,2023-11-18 12:35:00,Not Charging,Not Scam
+442994,822,3,0,Unlikely,Yes,1,MM,Telegram,2023-11-11 7:39:00,Charging,Scam
+489118,-265,9,0,Suspicious,Yes,1,44,Mobile,2024-02-04 12:31:00,Not Charging,Not Scam
+605987,48,3,99.55083915,Unlikely,Yes,1,91,WhatsApp,2023-07-16 9:45:00,Charging,Not Scam
+937619,301,8,146.58,Suspicious,No,2,65,Whats App,2023-10-08 16:06:00,Charging,Scam
+540958,125,12,529.53,Very Suspicious,Yes,4,7,Voip,2023-01-07 21:03:00,Charging,Scam
+504177,26,17,0,Unlikely,Yes,0,91,WhatsApp,2023-02-25 9:43:00,Not Charging,Scam
+830320,108,15,-99.9873276,Unlikely,Yes,0,44,Landline,2023-06-24 11:49:00,Fully Charged,Not Scam
+490526,-335,4,0,Unlikely,Yes,1,1,Mobile,2024-01-25 8:59:00,Charging,Not Scam
+453528,29,3,490.3,Suspicious,Yes,3,91,Voip,2023-02-15 12:52:00,Fully Charged,Scam
+137341,29,9,0,Unlikely,Yes,2,91,Voip,2023-08-04 16:33:00,Not Charging,Not Scam
+587726,104,4,0,Unlikely,Yes,0,1,WhatsApp,2023-06-20 7:02:00,Charging,Not Scam
+832116,-47,17,,Unlikely,Yes,1,1,Mobile,2023-09-09 10:34:00,Fully Charged,Not Scam
+653665,31,15,63.19352556,Suspicious,Yes,0,7,Mobile,2023-03-29 10:30:00,Fully Charged,Not Scam
+668272,-613,18,43.14096292,Suspicious,No,2,65,Whats App,2023-05-26 8:37:00,Fully Charged,Not Scam
+974679,299,10,0,Unlikely,Yes,3,1,Landline,2023-11-24 9:21:00,Fully Charged,Not Scam
+853057,45,10,455.44,Suspicious,Yes,0,7,Telegram,2023-07-07 12:36:00,Not Charging,Scam
+245593,-26,3,60.54072824,Unlikely,Yes,1,7,Mobile,2024-02-28 13:24:00,Fully Charged,Not Scam
+203841,-125,18,83.87,Unlikely,Yes,1,95,Voip,2023-05-30 0:41:00,Not Charging,Scam
+320017,687,9,0,Unlikely,Yes,3,7,Mobile,2023-06-26 21:27:00,Not Charging,Not Scam
+138649,43,4,82.24409606,Suspicious,Yes,0,65,Voip,2024-02-06 6:00:00,Fully Charged,Not Scam
+123308,-268,17,41.43392074,Unlikely,Yes,5,1,Landline,2023-10-05 0:51:00,Fully Charged,Not Scam
+994341,45,19,0,Unlikely,Yes,1,1,Voip,2023-03-12 18:46:00,Fully Charged,Not Scam
+490538,-39,7,0,Unlikely,Yes,2,MM,Landline,2023-10-10 16:18:00,Not Charging,Scam
+269402,556,3,0,Unlikely,No,1,65,Mobile,2023-09-12 23:30:00,Charging,Not Scam
+965063,-288,9,0,Unlikely,Yes,5,91,Voip,2023-09-02 2:59:00,Not Charging,Not Scam
+712360,-667,3,0,Unlikely,Yes,0,7,Mobile,2023-08-08 17:34:00,Charging,Not Scam
+645289,692,8,222.1,Unlikely,Yes,0,MM,Mobile,2023-07-13 21:37:00,Charging,Scam
+250121,-46,14,0,Unlikely,Yes,3,65,Mobile,2024-03-16 2:38:00,Fully Charged,Not Scam
+686172,137,14,0,Unlikely,Yes,4,95,Voip,2023-06-19 11:29:00,Fully Charged,Not Scam
+699110,-278,8,35.00911366,Unlikely,Yes,4,91,Voip,2023-01-11 6:19:00,Not Charging,Not Scam
+305606,47,6,,Unlikely,Yes,1,44,Mobile,2023-07-19 14:52:00,Fully Charged,Not Scam
+671394,-263,10,,Unlikely,Yes,4,44,Voip,2023-12-11 2:52:00,Fully Charged,Not Scam
+373777,292,15,40.70654065,Unlikely,Yes,0,MM,Voip,2023-11-10 13:46:00,Not Charging,Not Scam
+150152,27,17,99.29486129,Unlikely,Yes,6,91,Whats App,2023-08-21 12:39:00,Not Charging,Not Scam
+491397,-587,22,0,Unlikely,Yes,1,MM,Whats App,2023-10-09 17:05:00,Fully Charged,Scam
+511889,-118,15,225.83,Suspicious,Yes,1,7,Mobile,2024-01-13 2:58:00,Charging,Scam
+538959,-34,8,0,Unlikely,Yes,0,91,Mobile,2023-04-01 3:48:00,Charging,Not Scam
+708390,100,6,0,Unlikely,Yes,4,44,Mobile,2023-06-03 3:39:00,Fully Charged,Not Scam
+468539,-267,4,67.38827276,Very Suspicious,Yes,2,MM,Mobile,2023-10-14 10:25:00,Fully Charged,Not Scam
+724365,-647,21,0,Unlikely,Yes,2,1,Mobile,2023-10-04 16:54:00,Not Charging,Not Scam
+322875,293,15,0,Unlikely,Yes,0,91,Telegram,2023-09-18 1:04:00,Not Charging,Scam
+990514,122,10,23.67228663,Unlikely,Yes,0,91,Telegram,2023-07-27 9:05:00,Not Charging,Not Scam
+560287,111,18,0,Unlikely,Yes,1,1,Whats App,2023-07-28 10:44:00,Fully Charged,Scam
+202084,48,7,0,Unlikely,Yes,1,91,Mobile,2023-08-16 18:44:00,Fully Charged,Not Scam
+766708,-280,6,243.93,Unlikely,Yes,0,7,Landline,2023-11-02 11:34:00,Not Charging,Scam
+923336,49,7,24.52928286,Unlikely,Yes,3,7,Voip,2023-09-16 8:14:00,Fully Charged,Not Scam
+802361,46,6,821.21,Suspicious,Yes,0,MM,Telegram,2023-07-01 3:57:00,Fully Charged,Scam
+872602,311,14,299.45,Unlikely,Yes,1,44,WhatsApp,2023-03-17 1:50:00,Charging,Scam
+600989,110,6,0,Unlikely,Yes,0,44,Mobile,2023-07-22 21:12:00,Charging,Not Scam
+903310,-537,6,326.58,Very Suspicious,Yes,5,MM,Landline,2023-04-07 20:42:00,Not Charging,Scam
+646388,574,20,0,Suspicious,Yes,4,91,WhatsApp,2023-06-02 4:25:00,Charging,Scam
+984483,581,13,,Suspicious,Yes,0,7,Mobile,2023-01-27 11:30:00,Not Charging,Not Scam
+143595,558,7,0,Unlikely,Yes,0,7,Landline,2024-02-15 12:08:00,Not Charging,Not Scam
+928535,-320,20,0,Suspicious,Yes,3,MM,WhatsApp,2023-09-15 4:11:00,Fully Charged,Scam
+663990,-42,7,,Suspicious,Yes,0,7,Whats App,2024-03-08 4:13:00,Fully Charged,Not Scam
+113065,30,10,0,Suspicious,Yes,1,7,Telegram,2023-09-19 21:08:00,Not Charging,Not Scam
+148485,30,3,259.07,Unlikely,Yes,3,MM,Voip,2024-02-21 21:28:00,Charging,Scam
+911459,31,11,0,Unlikely,Yes,1,7,Telegram,2023-11-26 22:51:00,Not Charging,Not Scam
+858658,275,6,18.88,Unlikely,Yes,0,65,Whats App,2023-04-04 12:44:00,Fully Charged,Scam
+702191,-44,7,39.05,Suspicious,Yes,5,91,Telegram,2023-03-02 2:21:00,Not Charging,Scam
+679236,-299,3,-76.40060946,Unlikely,Yes,3,95,Mobile,2023-03-20 8:53:00,Charging,Not Scam
+972086,-47,4,66.66742365,Suspicious,Yes,2,7,Mobile,2023-03-13 16:59:00,Not Charging,Not Scam
+788362,28,12,0,Unlikely,Yes,0,44,Mobile,2023-11-13 19:19:00,Not Charging,Not Scam
+973169,-540,10,,Unlikely,Yes,1,MM,Telegram,2023-07-06 20:55:00,Not Charging,Not Scam
+251585,604,3,27.12646471,Unlikely,Yes,4,65,Landline,2023-03-03 15:17:00,Not Charging,Not Scam
+682855,112,7,92.15102045,Unlikely,Yes,1,1,Voip,2024-02-15 14:32:00,Not Charging,Not Scam
+606418,-319,7,0,Unlikely,Yes,0,91,Landline,2023-11-17 7:43:00,Charging,Not Scam
+619914,-43,9,190.58,Unlikely,Yes,1,91,WhatsApp,2023-04-03 3:26:00,Charging,Scam
+225353,37,7,,Unlikely,Yes,5,95,Landline,2024-01-16 10:11:00,Fully Charged,Not Scam
+551403,138,7,,Unlikely,Yes,1,MM,Landline,2023-08-11 4:09:00,Fully Charged,Not Scam
+966447,-46,6,0,Very Suspicious,Yes,0,44,Mobile,2023-01-02 11:35:00,Charging,Not Scam
+567299,609,13,0,Unlikely,Yes,0,MM,Landline,2023-03-25 18:59:00,Charging,Scam
+367385,100,14,0,Unlikely,Yes,5,1,Mobile,2023-11-16 17:34:00,Not Charging,Not Scam
+574877,119,9,99.32,Unlikely,Yes,1,MM,Voip,2023-12-30 19:25:00,Not Charging,Scam
+783784,128,8,0,Unlikely,Yes,2,MM,Telegram,2024-03-29 10:28:00,Fully Charged,Scam
+171449,29,20,89.41431087,Unlikely,Yes,5,7,Mobile,2023-08-11 15:03:00,Charging,Not Scam
+435553,29,4,0,Suspicious,Yes,0,65,WhatsApp,2023-08-12 8:13:00,Fully Charged,Scam
+817754,-31,13,57.01511589,Unlikely,Yes,0,7,WhatsApp,2023-08-10 12:39:00,Charging,Not Scam
+331143,349,15,34.6075077,Unlikely,Yes,0,44,Voip,2024-03-17 23:55:00,Charging,Not Scam
+398953,123,7,0,Unlikely,Yes,3,65,Whats App,2023-01-22 3:54:00,Not Charging,Not Scam
+394786,-140,6,0,Unlikely,Yes,0,44,Landline,2023-10-17 17:53:00,Charging,Not Scam
+742501,-29,6,0,Very Suspicious,Yes,3,91,Landline,2023-01-22 22:07:00,Not Charging,Not Scam
+467491,-272,8,25.3411181,Unlikely,Yes,4,MM,Mobile,2023-04-23 5:31:00,Charging,Not Scam
+880237,311,3,452.12,Very Suspicious,Yes,0,1,Whats App,2023-02-05 11:07:00,Not Charging,Scam
+280430,109,14,0,Unlikely,Yes,0,1,Landline,2023-03-27 0:57:00,Fully Charged,Not Scam
+800282,127,6,,Suspicious,Yes,3,7,Mobile,2024-01-29 22:21:00,Fully Charged,Not Scam
+262523,-600,7,0,Unlikely,Yes,2,44,Telegram,2024-02-27 17:05:00,Fully Charged,Not Scam
+816126,-127,17,-35.97706127,Unlikely,Yes,0,1,Mobile,2023-06-20 15:12:00,Fully Charged,Not Scam
+211596,-560,16,67.77650266,Unlikely,Yes,3,91,Mobile,2023-11-05 1:03:00,Not Charging,Not Scam
+450862,615,8,8.509675457,Unlikely,Yes,5,7,Mobile,2023-01-22 15:34:00,Not Charging,Not Scam
+401560,-565,8,0,Unlikely,Yes,4,91,Mobile,2024-01-09 12:57:00,Fully Charged,Scam
+944416,623,11,,Unlikely,Yes,3,44,Whats App,2024-03-21 16:42:00,Charging,Not Scam
+266659,48,17,188.01,Unlikely,Yes,1,95,Voip,2023-08-28 7:58:00,Fully Charged,Scam
+401966,-328,6,0,Unlikely,Yes,2,1,WhatsApp,2024-03-28 18:00:00,Fully Charged,Not Scam
+499705,42,9,19.86,Unlikely,Yes,3,91,WhatsApp,2023-07-24 20:22:00,Charging,Scam
+562832,315,22,0,Unlikely,Yes,0,95,Landline,2023-11-22 14:35:00,Charging,Not Scam
+233621,-296,23,0,Unlikely,Yes,5,91,Mobile,2023-11-02 14:40:00,Not Charging,Scam
+970842,129,13,52.2181313,Unlikely,Yes,3,95,WhatsApp,2024-01-11 19:46:00,Fully Charged,Not Scam
+753909,-51,14,56.90516301,Unlikely,Yes,1,91,Mobile,2023-07-20 2:06:00,Not Charging,Not Scam
+941890,619,6,57.9,Unlikely,Yes,1,1,Whats App,2024-01-04 17:00:00,Fully Charged,Scam
+989377,-597,19,333.66,Very Suspicious,Yes,1,1,Voip,2024-02-14 21:45:00,Fully Charged,Scam
+271996,-583,3,,Suspicious,Yes,1,65,Mobile,2023-02-28 4:19:00,Charging,Not Scam
+902392,30,15,18.83998408,Unlikely,Yes,1,91,Mobile,2023-10-17 12:30:00,Charging,Not Scam
+919975,630,3,,Unlikely,Yes,4,65,Telegram,2023-03-24 7:11:00,Fully Charged,Not Scam
+575489,-26,19,0,Unlikely,Yes,1,MM,Telegram,2023-12-13 5:05:00,Fully Charged,Scam
+170950,-338,13,0,Unlikely,No,5,65,WhatsApp,2023-06-22 13:05:00,Not Charging,Not Scam
+882340,123,6,22.7,Unlikely,Yes,0,91,Landline,2024-02-04 2:56:00,Not Charging,Scam
+409464,-32,15,,Unlikely,Yes,1,44,Mobile,2023-04-02 9:17:00,Fully Charged,Not Scam
+727020,-584,18,0,Suspicious,Yes,2,7,Voip,2024-03-21 2:40:00,Fully Charged,Not Scam
+150890,-33,19,,Unlikely,Yes,2,1,Mobile,2023-03-11 15:51:00,Charging,Not Scam
+197683,-297,16,0,Very Suspicious,Yes,4,1,Landline,2023-12-02 22:21:00,Charging,Not Scam
+429422,-135,15,,Unlikely,Yes,3,91,Mobile,2023-01-11 23:52:00,Fully Charged,Not Scam
+600901,45,17,75.55919523,Suspicious,Yes,7,1,WhatsApp,2023-05-27 10:31:00,Fully Charged,Not Scam
+511095,285,18,0,Unlikely,No,1,65,WhatsApp,2024-01-16 9:29:00,Fully Charged,Not Scam
+805935,100,11,,Unlikely,Yes,2,7,Mobile,2023-11-28 10:55:00,Charging,Not Scam
+400822,89,21,11.57309362,Unlikely,Yes,3,7,Mobile,2023-02-21 4:06:00,Fully Charged,Not Scam
+114310,-548,7,,Suspicious,Yes,2,7,Voip,2023-02-05 3:43:00,Not Charging,Not Scam
+680165,131,14,411.09,Unlikely,Yes,2,65,WhatsApp,2023-09-28 22:31:00,Charging,Scam
+539765,-137,7,87.03730604,Very Suspicious,Yes,1,7,Mobile,2024-01-14 10:07:00,Charging,Not Scam
+913941,-46,4,0,Unlikely,Yes,3,1,Voip,2023-09-15 17:35:00,Fully Charged,Not Scam
+223517,35,16,0,Very Suspicious,Yes,1,1,Landline,2023-08-22 11:47:00,Fully Charged,Not Scam
+199976,610,7,,Unlikely,Yes,3,91,Voip,2023-04-15 12:05:00,Charging,Not Scam
+678044,119,10,109.36,Suspicious,Yes,0,MM,Mobile,2024-01-16 17:35:00,Fully Charged,Scam
+139190,-30,16,66.21835406,Unlikely,No,2,65,WhatsApp,2023-06-25 10:18:00,Fully Charged,Not Scam
+343541,120,19,15.04705266,Unlikely,Yes,2,44,Voip,2024-01-24 15:58:00,Not Charging,Not Scam
+265755,261,18,575.94,Unlikely,Yes,4,91,Telegram,2023-02-20 10:24:00,Not Charging,Scam
+505077,307,9,-92.49948806,Unlikely,Yes,1,65,Whats App,2023-02-23 22:32:00,Fully Charged,Not Scam
+737062,-100,16,75.54718728,Unlikely,Yes,0,95,Whats App,2024-03-02 8:53:00,Fully Charged,Not Scam
+986243,46,6,44.25070418,Unlikely,Yes,0,91,Mobile,2023-10-31 3:35:00,Not Charging,Not Scam
+597621,-24,4,686.15,Very Suspicious,Yes,5,MM,WhatsApp,2023-04-26 4:11:00,Not Charging,Scam
+639141,-45,14,63.73747672,Unlikely,No,1,65,Whats App,2023-04-07 18:18:00,Charging,Not Scam
+733580,-40,19,742.75,Suspicious,Yes,2,MM,Whats App,2023-06-26 11:55:00,Not Charging,Scam
+175903,-137,14,32.18206469,Unlikely,Yes,0,7,Mobile,2024-03-08 1:01:00,Not Charging,Not Scam
+103269,-115,4,0,Unlikely,Yes,0,91,WhatsApp,2024-03-18 22:06:00,Charging,Scam
+865623,603,19,27.3,Unlikely,Yes,0,MM,Mobile,2023-09-26 13:51:00,Fully Charged,Scam
+750135,-41,7,23.5148912,Very Suspicious,Yes,0,44,WhatsApp,2023-05-31 3:57:00,Not Charging,Not Scam
+184795,-46,4,30.93670747,Very Suspicious,Yes,2,MM,Whats App,2023-06-22 21:12:00,Charging,Not Scam
+867527,280,21,0,Unlikely,Yes,0,7,Whats App,2023-05-15 4:32:00,Charging,Scam
+828105,30,12,0,Suspicious,Yes,3,7,WhatsApp,2023-04-02 20:34:00,Not Charging,Scam
+982130,120,3,,Suspicious,Yes,0,95,WhatsApp,2023-09-04 18:30:00,Fully Charged,Not Scam
+489589,-126,7,0,Unlikely,Yes,0,44,Landline,2023-04-24 4:53:00,Not Charging,Not Scam
+292984,-33,10,0,Unlikely,Yes,1,91,Mobile,2023-02-03 17:07:00,Not Charging,Scam
+903537,-563,4,64.2874777,Unlikely,Yes,3,91,Telegram,2023-02-25 10:41:00,Fully Charged,Not Scam
+248580,33,15,,Unlikely,Yes,4,1,Voip,2023-02-04 10:16:00,Not Charging,Not Scam
+851167,268,14,84.23428178,Unlikely,Yes,0,44,Telegram,2023-10-30 23:11:00,Not Charging,Not Scam
+253087,-112,14,362.4,Unlikely,Yes,0,91,Whats App,2023-09-07 10:02:00,Charging,Scam
+879565,117,3,0,Unlikely,Yes,2,MM,Telegram,2023-02-19 0:32:00,Fully Charged,Scam
+428774,-37,15,414.61,Very Suspicious,No,1,65,Voip,2023-12-10 21:46:00,Not Charging,Scam
+296584,-326,3,562.81,Suspicious,Yes,3,7,Landline,2023-04-17 11:06:00,Charging,Scam
+161853,-541,6,0,Unlikely,Yes,0,44,Whats App,2023-01-28 10:27:00,Charging,Scam
+515170,43,18,,Unlikely,Yes,2,7,Landline,2023-01-03 10:07:00,Charging,Not Scam
+832431,-26,6,496.82,Suspicious,Yes,0,MM,Landline,2023-07-17 10:54:00,Not Charging,Scam
+425175,140,6,0,Unlikely,Yes,0,91,Telegram,2023-07-05 2:22:00,Charging,Not Scam
+475788,28,4,-633.99,Very Suspicious,Yes,1,1,Mobile,2023-04-07 21:45:00,Charging,Scam
+909445,32,9,624.6,Suspicious,Yes,4,65,Voip,2023-02-11 21:57:00,Fully Charged,Scam
+802259,113,18,,Very Suspicious,Yes,7,1,Mobile,2023-10-02 13:12:00,Fully Charged,Not Scam
+496033,116,15,,Unlikely,Yes,4,7,Voip,2023-05-03 14:32:00,Fully Charged,Not Scam
+730960,621,3,11.74,Suspicious,Yes,0,MM,Landline,2023-08-04 0:16:00,Fully Charged,Scam
+806410,-27,4,102.45,Suspicious,Yes,0,MM,Voip,2024-03-22 1:31:00,Not Charging,Scam
+481032,-127,9,,Unlikely,Yes,0,1,Landline,2023-07-11 17:04:00,Charging,Not Scam
+507774,505,4,0,Unlikely,Yes,5,44,Telegram,2024-02-13 0:33:00,Charging,Not Scam
+217243,233,7,0,Unlikely,Yes,0,91,Telegram,2023-08-06 7:21:00,Fully Charged,Scam
+708875,-151,9,0,Unlikely,Yes,0,91,Mobile,2023-02-05 3:58:00,Fully Charged,Not Scam
+724051,584,9,,Unlikely,Yes,1,1,Mobile,2023-04-24 11:05:00,Fully Charged,Not Scam
+350034,-54,23,0,Unlikely,Yes,3,44,Telegram,2023-09-08 13:19:00,Charging,Not Scam
+582955,674,19,0,Unlikely,Yes,1,91,Voip,2023-07-31 6:58:00,Not Charging,Not Scam
+769898,26,7,0,Unlikely,Yes,5,91,Voip,2023-11-25 19:23:00,Charging,Scam
+788272,-130,22,0,Unlikely,No,1,65,Whats App,2023-07-02 11:39:00,Fully Charged,Scam
+618080,-268,20,0,Unlikely,Yes,1,1,WhatsApp,2023-09-02 23:58:00,Not Charging,Scam
+886210,-24,21,0,Unlikely,Yes,2,44,Voip,2023-02-07 6:29:00,Not Charging,Scam
+514624,-336,13,94.65840802,Suspicious,Yes,5,1,Mobile,2023-01-02 5:41:00,Fully Charged,Not Scam
+668794,150,20,0,Unlikely,Yes,5,44,Telegram,2023-01-06 21:37:00,Not Charging,Not Scam
+602853,52,23,21.19013383,Unlikely,Yes,2,1,Voip,2023-06-07 12:41:00,Fully Charged,Not Scam
+194429,46,9,18.18466751,Unlikely,Yes,3,1,Whats App,2024-03-01 18:25:00,Not Charging,Not Scam
+907027,338,4,0,Unlikely,Yes,0,MM,Mobile,2023-01-20 4:31:00,Fully Charged,Scam
+486007,277,3,,Unlikely,No,4,65,Mobile,2024-02-08 6:07:00,Charging,Not Scam
+341616,341,15,0,Unlikely,Yes,0,1,WhatsApp,2023-06-12 5:28:00,Fully Charged,Not Scam
+380900,-34,6,0,Unlikely,Yes,0,95,WhatsApp,2023-03-30 3:56:00,Charging,Not Scam
+792848,297,15,20.95,Suspicious,Yes,0,MM,Voip,2023-11-06 0:03:00,Not Charging,Scam
+351352,633,23,0,Suspicious,Yes,1,1,Voip,2023-05-07 14:53:00,Charging,Scam
+501684,43,10,0,Suspicious,Yes,0,44,Voip,2023-10-23 21:40:00,Not Charging,Not Scam
+663713,-30,14,0,Unlikely,Yes,0,MM,Telegram,2023-01-26 6:43:00,Charging,Scam
+929808,117,4,0,Unlikely,Yes,4,91,Whats App,2024-02-23 4:39:00,Fully Charged,Scam
+373353,339,9,0,Unlikely,Yes,0,1,Telegram,2023-05-22 15:35:00,Fully Charged,Not Scam
+907049,654,22,0,Unlikely,Yes,2,91,Whats App,2023-08-26 0:46:00,Charging,Scam
+536808,112,3,774.91,Unlikely,Yes,0,44,Landline,2023-04-02 10:05:00,Not Charging,Scam
+441679,533,20,0,Unlikely,Yes,0,91,Telegram,2023-02-16 3:43:00,Charging,Scam
+489770,305,3,147.02,Unlikely,Yes,1,91,Voip,2024-03-07 1:31:00,Charging,Scam
+308732,112,7,610.89,Very Suspicious,Yes,4,7,Mobile,2023-07-20 11:37:00,Charging,Scam
+513966,-579,3,35.39,Unlikely,Yes,4,7,WhatsApp,2023-04-24 6:15:00,Not Charging,Scam
+687185,145,6,228.19,Very Suspicious,Yes,0,1,Telegram,2024-03-28 21:47:00,Charging,Scam
+173635,-30,9,0,Unlikely,No,0,65,Voip,2024-02-25 10:02:00,Fully Charged,Not Scam
+274974,-299,2,0,Unlikely,Yes,0,95,Whats App,2023-05-01 20:16:00,Charging,Scam
+409095,117,19,0,Unlikely,No,2,65,Voip,2023-06-23 17:11:00,Charging,Not Scam
+899371,-47,6,39.92238426,Unlikely,Yes,0,44,Whats App,2023-10-14 1:43:00,Charging,Not Scam
+489503,569,15,67.72934207,Unlikely,Yes,4,95,Telegram,2023-12-27 9:49:00,Fully Charged,Not Scam
+758145,35,10,109.08,Unlikely,Yes,2,44,Whats App,2023-06-14 16:21:00,Not Charging,Scam
+764080,-42,10,0,Unlikely,Yes,1,1,Voip,2023-05-09 5:50:00,Fully Charged,Scam
+964913,-120,10,,Very Suspicious,Yes,4,95,Telegram,2024-02-15 22:13:00,Charging,Not Scam
+558882,352,7,0,Unlikely,Yes,2,44,Mobile,2023-05-13 19:09:00,Fully Charged,Not Scam
+878935,45,3,-37.25,Suspicious,Yes,0,7,Whats App,2023-09-22 5:03:00,Fully Charged,Scam
+436846,-331,21,85.6761147,Unlikely,Yes,1,95,Voip,2024-03-06 15:02:00,Charging,Scam
+576385,-25,23,55.67071243,Unlikely,Yes,3,95,Whats App,2023-08-24 21:41:00,Charging,Scam
+918452,-43,22,110.3,Unlikely,Yes,1,MM,Telegram,2023-11-22 22:35:00,Fully Charged,Scam
+257344,40,7,368.24,Very Suspicious,Yes,2,1,Voip,2024-03-15 10:04:00,Not Charging,Scam
+419656,618,8,0,Suspicious,Yes,4,91,Telegram,2023-02-27 1:12:00,Fully Charged,Not Scam
+861382,-574,9,8.926931156,Unlikely,Yes,2,65,Mobile,2024-02-09 11:46:00,Charging,Not Scam
+658827,48,7,0,Unlikely,Yes,4,91,WhatsApp,2023-12-23 21:53:00,Not Charging,Not Scam
+644499,-130,9,147.14,Very Suspicious,Yes,1,7,Mobile,2023-08-07 22:37:00,Charging,Scam
+975660,47,10,266.05,Suspicious,Yes,5,MM,Mobile,2023-11-01 13:02:00,Fully Charged,Scam
+146725,304,15,70.91917154,Unlikely,Yes,1,1,Landline,2023-08-09 9:42:00,Not Charging,Not Scam
+189581,103,3,12.78,Unlikely,Yes,1,MM,WhatsApp,2024-01-28 4:33:00,Fully Charged,Scam
+748671,638,6,37.3723029,Unlikely,Yes,4,95,Voip,2023-05-18 12:38:00,Fully Charged,Not Scam
+601493,111,3,0,Unlikely,Yes,4,1,Mobile,2023-09-14 4:32:00,Not Charging,Not Scam
+585873,-40,11,0,Unlikely,Yes,1,95,Whats App,2024-02-09 21:46:00,Charging,Not Scam
+547413,119,11,13.63,Unlikely,Yes,0,95,Whats App,2024-01-16 17:41:00,Fully Charged,Scam
+184360,97,20,0,Unlikely,Yes,0,1,Landline,2023-06-13 14:38:00,Not Charging,Not Scam
+222358,139,4,,Unlikely,No,4,65,Telegram,2023-03-13 15:21:00,Fully Charged,Not Scam
+776942,31,4,0,Unlikely,Yes,0,91,Telegram,2023-11-30 23:43:00,Charging,Not Scam
+672967,35,3,0,Unlikely,Yes,0,44,Whats App,2023-08-24 6:59:00,Charging,Not Scam
+623274,32,10,47.72931858,Unlikely,Yes,3,91,Voip,2023-03-28 14:41:00,Fully Charged,Not Scam
+360044,-664,23,45.89339775,Unlikely,Yes,2,1,Landline,2023-02-22 9:51:00,Not Charging,Not Scam
+993358,30,22,0.656009375,Unlikely,Yes,4,7,Voip,2023-04-15 6:23:00,Charging,Not Scam
+474890,-263,10,90.32756885,Unlikely,Yes,2,7,WhatsApp,2023-09-22 10:42:00,Charging,Not Scam
+813407,-98,4,0,Suspicious,Yes,1,65,Whats App,2023-12-05 14:58:00,Not Charging,Not Scam
+987469,605,18,0,Unlikely,Yes,3,7,Mobile,2023-11-06 1:32:00,Charging,Not Scam
+744018,296,7,29.82,Unlikely,Yes,3,1,Whats App,2023-10-19 10:06:00,Not Charging,Scam
+850817,262,3,49.29392574,Unlikely,Yes,1,91,Voip,2023-09-14 22:19:00,Charging,Not Scam
+807914,28,15,0,Very Suspicious,Yes,0,91,Telegram,2023-07-13 15:02:00,Fully Charged,Not Scam
+441420,526,20,26.13402191,Unlikely,Yes,0,91,Mobile,2023-04-21 18:48:00,Fully Charged,Not Scam
+863646,41,23,301.49,Unlikely,Yes,0,91,Whats App,2023-09-10 9:06:00,Not Charging,Scam
+252166,29,8,0,Unlikely,Yes,3,44,Voip,2023-10-26 15:01:00,Charging,Not Scam
+266722,-104,4,-468.47,Suspicious,Yes,1,1,Voip,2023-05-03 14:54:00,Fully Charged,Scam
+672858,-28,6,26.54238437,Unlikely,Yes,4,1,Mobile,2023-02-02 5:13:00,Charging,Not Scam
+744887,49,10,21.56,Unlikely,Yes,0,65,Voip,2023-04-18 1:57:00,Charging,Scam
+987574,-29,7,13.30665413,Unlikely,Yes,4,7,Whats App,2023-11-28 11:56:00,Not Charging,Not Scam
+549455,-651,3,0,Unlikely,Yes,2,91,Whats App,2024-03-27 9:35:00,Not Charging,Scam
+629412,-21,19,88.14667046,Unlikely,Yes,5,95,WhatsApp,2023-11-13 1:18:00,Not Charging,Not Scam
+682073,132,13,4.206197032,Unlikely,Yes,2,44,Mobile,2023-09-28 20:49:00,Fully Charged,Not Scam
+704971,33,13,,Very Suspicious,Yes,2,1,Mobile,2024-03-10 10:15:00,Charging,Not Scam
+430971,-30,19,82.18,Unlikely,Yes,0,1,Voip,2023-03-18 18:30:00,Fully Charged,Scam
+968624,123,6,381.35,Suspicious,Yes,2,MM,Telegram,2023-11-03 22:32:00,Fully Charged,Scam
+460849,-308,18,0,Suspicious,Yes,3,44,Voip,2023-09-30 17:46:00,Not Charging,Not Scam
+396285,608,15,0,Unlikely,Yes,3,7,Voip,2024-01-17 11:37:00,Fully Charged,Not Scam
+742511,-44,20,731.64,Suspicious,Yes,3,7,Whats App,2024-02-10 21:09:00,Not Charging,Scam
+310959,-144,3,12.27380561,Unlikely,Yes,2,95,Landline,2023-01-13 0:34:00,Charging,Not Scam
+775114,112,3,90.40386752,Unlikely,Yes,3,44,Mobile,2023-10-05 16:48:00,Not Charging,Not Scam
+704946,-264,6,57.14993914,Unlikely,Yes,6,7,Voip,2023-08-01 20:19:00,Fully Charged,Not Scam
+384520,-311,10,0,Unlikely,Yes,2,91,Whats App,2023-05-23 6:43:00,Fully Charged,Not Scam
+933788,298,13,0,Unlikely,Yes,2,95,Mobile,2024-03-06 14:12:00,Fully Charged,Not Scam
+860742,30,18,47.03625506,Unlikely,Yes,2,95,Telegram,2023-02-11 13:44:00,Fully Charged,Not Scam
+275189,-261,13,0,Unlikely,Yes,0,44,WhatsApp,2023-05-24 12:49:00,Not Charging,Scam
+306161,-48,6,33.00638743,Unlikely,No,3,65,WhatsApp,2023-05-02 6:40:00,Fully Charged,Not Scam
+379568,41,7,3.310276437,Very Suspicious,Yes,1,91,Mobile,2023-04-02 10:50:00,Fully Charged,Not Scam
+760249,-43,6,,Unlikely,Yes,4,7,Voip,2023-08-06 8:05:00,Not Charging,Not Scam
+776765,-267,17,0,Unlikely,Yes,0,91,Telegram,2023-02-19 23:12:00,Charging,Not Scam
+925506,29,6,,Unlikely,Yes,3,44,Voip,2023-08-28 4:19:00,Fully Charged,Not Scam
+488168,130,3,,Unlikely,Yes,0,1,WhatsApp,2023-12-09 17:20:00,Not Charging,Not Scam
+462351,550,14,0,Unlikely,Yes,0,91,WhatsApp,2023-05-03 2:04:00,Charging,Not Scam
+746536,569,4,722.68,Suspicious,No,3,65,WhatsApp,2023-10-25 10:37:00,Not Charging,Scam
+559391,114,23,21.75693629,Unlikely,Yes,2,91,Whats App,2023-09-12 1:55:00,Charging,Scam
+217787,-305,7,484.32,Very Suspicious,Yes,4,44,Mobile,2023-05-25 18:05:00,Not Charging,Scam
+676598,269,11,,Unlikely,Yes,0,91,Mobile,2023-10-16 1:55:00,Fully Charged,Not Scam
+938374,115,7,22.54687327,Unlikely,Yes,6,MM,Whats App,2024-02-20 20:25:00,Not Charging,Not Scam
+435061,31,12,44.17297163,Unlikely,No,0,65,Landline,2023-08-05 14:05:00,Not Charging,Not Scam
+244583,33,3,0,Unlikely,Yes,6,1,Whats App,2023-11-15 22:19:00,Charging,Not Scam
+530647,132,9,71.05667851,Unlikely,Yes,3,95,WhatsApp,2023-05-21 20:44:00,Fully Charged,Not Scam
+734453,-302,7,98.00632805,Unlikely,Yes,0,95,Whats App,2023-08-02 6:34:00,Charging,Not Scam
+315698,341,4,0,Unlikely,Yes,2,65,Whats App,2023-11-09 13:52:00,Charging,Scam
+378073,42,7,0,Unlikely,Yes,2,44,WhatsApp,2023-09-12 18:01:00,Fully Charged,Not Scam
+968640,-122,17,0,Unlikely,Yes,2,65,Voip,2023-07-20 14:27:00,Not Charging,Not Scam
+817738,33,20,40.05521071,Unlikely,Yes,0,1,Mobile,2023-09-16 16:18:00,Fully Charged,Not Scam
+607008,28,9,0,Unlikely,Yes,3,91,Voip,2024-01-26 20:55:00,Not Charging,Scam
+328193,-276,11,0,Unlikely,No,2,65,Whats App,2023-03-14 12:50:00,Charging,Not Scam
+618690,-259,13,-8.653756274,Unlikely,Yes,1,1,WhatsApp,2023-07-19 12:41:00,Charging,Not Scam
+502071,50,18,173.12,Unlikely,Yes,3,MM,Whats App,2023-08-18 17:19:00,Charging,Scam
+183129,118,10,390.86,Suspicious,Yes,0,91,WhatsApp,2024-01-12 11:11:00,Charging,Scam
+832293,47,3,75.99,Unlikely,Yes,0,91,WhatsApp,2023-03-06 9:38:00,Fully Charged,Scam
+125840,-367,6,,Suspicious,Yes,1,7,Mobile,2023-10-17 16:37:00,Not Charging,Not Scam
+782766,-33,7,0,Suspicious,Yes,4,MM,Telegram,2023-10-30 4:15:00,Fully Charged,Not Scam
+157155,126,11,,Unlikely,Yes,5,44,Voip,2023-12-02 7:16:00,Fully Charged,Not Scam
+980246,668,15,37.96633076,Unlikely,Yes,1,65,Mobile,2023-06-10 15:06:00,Not Charging,Not Scam
+355604,-133,20,,Unlikely,Yes,3,MM,Mobile,2023-02-14 20:52:00,Charging,Not Scam
+407941,29,9,29.94522124,Unlikely,Yes,6,65,Mobile,2023-11-20 3:54:00,Fully Charged,Not Scam
+861395,42,20,0,Unlikely,Yes,0,95,Mobile,2023-09-13 2:56:00,Not Charging,Scam
+212324,32,8,29.82,Unlikely,Yes,6,91,Voip,2024-03-08 23:10:00,Fully Charged,Scam
+501447,38,6,0,Unlikely,Yes,1,1,Landline,2023-09-03 20:48:00,Fully Charged,Not Scam
+349777,32,7,0,Unlikely,Yes,5,91,Mobile,2023-09-01 20:51:00,Charging,Not Scam
+166888,499,4,-511.32,Very Suspicious,Yes,2,91,Telegram,2024-01-08 11:48:00,Not Charging,Scam
+660763,-109,11,92.40619602,Unlikely,Yes,2,91,Telegram,2023-07-17 6:24:00,Not Charging,Not Scam
+761987,118,10,66.38289173,Unlikely,Yes,1,1,Mobile,2023-10-03 18:05:00,Charging,Not Scam
+414022,49,21,39.72,Suspicious,Yes,1,44,Voip,2023-04-17 6:51:00,Fully Charged,Scam
+458943,616,9,0,Unlikely,Yes,0,MM,Whats App,2024-02-17 9:59:00,Fully Charged,Scam
+144854,-29,12,0,Unlikely,Yes,5,MM,Mobile,2023-05-20 15:01:00,Fully Charged,Not Scam
+163017,285,15,,Unlikely,Yes,2,7,Whats App,2023-08-28 19:49:00,Fully Charged,Not Scam
+166433,-125,16,0,Unlikely,Yes,2,95,Voip,2023-03-11 16:45:00,Not Charging,Scam
+424251,336,21,92.10913203,Unlikely,Yes,3,1,Mobile,2023-05-16 21:00:00,Fully Charged,Not Scam
+393338,-328,16,0,Unlikely,Yes,1,1,Whats App,2024-01-15 6:03:00,Not Charging,Not Scam
+452975,43,3,0,Unlikely,Yes,5,7,Landline,2024-02-07 14:45:00,Not Charging,Not Scam
+985082,-41,11,37.67937079,Suspicious,Yes,1,91,Mobile,2023-03-02 15:57:00,Not Charging,Not Scam
+560709,47,19,44.92889209,Unlikely,Yes,5,65,Mobile,2023-04-28 19:26:00,Charging,Not Scam
+693985,-99,4,63.8595601,Unlikely,Yes,1,65,Telegram,2023-12-30 9:54:00,Not Charging,Not Scam
+791083,-119,4,,Unlikely,Yes,1,7,Landline,2023-10-11 9:34:00,Not Charging,Not Scam
+568101,-573,23,0,Suspicious,Yes,6,1,Telegram,2024-01-22 19:48:00,Not Charging,Not Scam
+482199,-113,20,24.60439798,Unlikely,No,0,65,Landline,2023-09-15 1:11:00,Not Charging,Not Scam
+650671,-676,6,,Unlikely,Yes,1,7,Mobile,2023-07-29 6:03:00,Not Charging,Not Scam
+866894,322,14,0,Unlikely,No,0,65,WhatsApp,2023-05-02 10:21:00,Not Charging,Not Scam
+431523,-47,4,,Unlikely,Yes,4,1,Whats App,2023-08-17 8:53:00,Charging,Not Scam
+192856,-343,12,0,Unlikely,Yes,2,1,Voip,2023-11-04 21:45:00,Charging,Not Scam
+602318,-560,21,486.82,Suspicious,Yes,2,1,Landline,2023-08-03 22:24:00,Fully Charged,Scam
+101266,-120,19,36.88102927,Unlikely,Yes,0,1,Telegram,2023-07-24 21:53:00,Not Charging,Not Scam
+906169,274,22,0,Unlikely,Yes,0,7,Mobile,2023-09-07 14:11:00,Not Charging,Not Scam
+278809,47,6,82.16572045,Unlikely,No,0,65,Landline,2023-11-03 14:21:00,Charging,Not Scam
+702940,-314,6,20.32221758,Unlikely,Yes,0,7,Mobile,2023-10-01 13:28:00,Not Charging,Not Scam
+438748,43,5,249.23,Unlikely,Yes,3,MM,Voip,2023-04-16 11:10:00,Fully Charged,Scam
+771747,315,10,10.71,Suspicious,Yes,0,MM,Voip,2023-02-06 20:41:00,Fully Charged,Scam
+364942,-35,15,0,Very Suspicious,Yes,0,44,WhatsApp,2023-01-05 21:59:00,Charging,Not Scam
+354772,512,18,148.26,Unlikely,Yes,0,95,Voip,2023-09-04 4:13:00,Charging,Scam
+433615,-272,17,0,Unlikely,Yes,0,95,Landline,2023-10-24 12:31:00,Fully Charged,Not Scam
+543592,48,6,0,Very Suspicious,Yes,1,95,Voip,2024-01-19 8:29:00,Charging,Not Scam
+586395,117,4,,Unlikely,Yes,0,91,Mobile,2024-01-21 12:27:00,Fully Charged,Not Scam
+170089,-42,4,0,Unlikely,Yes,2,44,Voip,2023-05-17 20:18:00,Charging,Not Scam
+494887,-480,8,87.28558063,Unlikely,Yes,0,MM,Landline,2024-03-24 11:01:00,Not Charging,Not Scam
+431307,554,22,0,Unlikely,Yes,0,95,Mobile,2023-03-13 2:40:00,Fully Charged,Not Scam
+141348,-604,3,48.52320341,Unlikely,Yes,1,44,Mobile,2024-02-24 1:08:00,Not Charging,Not Scam
+349811,21,7,740.45,Very Suspicious,Yes,2,1,Voip,2023-06-16 22:45:00,Not Charging,Scam
+702105,-298,6,0,Very Suspicious,Yes,0,95,Whats App,2023-10-07 1:15:00,Not Charging,Not Scam
+996993,42,6,0,Unlikely,Yes,2,91,Mobile,2023-12-12 8:36:00,Charging,Not Scam
+384965,47,16,,Unlikely,Yes,4,MM,Landline,2023-05-30 10:53:00,Charging,Not Scam
+586056,568,8,,Unlikely,Yes,2,1,WhatsApp,2023-10-09 18:08:00,Charging,Not Scam
+173317,-539,22,0,Unlikely,Yes,2,7,Mobile,2023-06-03 8:05:00,Fully Charged,Not Scam
+389077,-38,22,240.93,Very Suspicious,Yes,1,MM,Telegram,2024-02-22 2:23:00,Not Charging,Scam
+829386,115,3,-417.72,Suspicious,Yes,1,91,Voip,2023-11-22 11:49:00,Fully Charged,Scam
+221388,-32,7,60.01991299,Unlikely,Yes,0,65,Mobile,2024-03-16 14:01:00,Not Charging,Not Scam
+422678,120,7,,Unlikely,Yes,1,1,Voip,2023-03-13 2:16:00,Charging,Not Scam
+525494,-46,8,0,Suspicious,Yes,0,95,WhatsApp,2023-09-08 0:00:00,Fully Charged,Scam
+601678,-48,19,900.4,Unlikely,Yes,3,7,Whats App,2023-12-19 22:01:00,Fully Charged,Scam
+536434,-246,8,,Very Suspicious,Yes,0,MM,Mobile,2024-01-14 15:34:00,Not Charging,Not Scam
+635409,570,6,164.47,Unlikely,Yes,3,MM,Whats App,2023-08-01 12:31:00,Charging,Scam
+381533,-270,4,77.40189635,Unlikely,Yes,5,95,Mobile,2023-04-17 3:59:00,Charging,Not Scam
+209041,-40,9,391.26,Suspicious,Yes,2,44,WhatsApp,2023-10-27 5:59:00,Charging,Scam
+594226,32,6,0,Unlikely,Yes,1,7,Voip,2023-05-07 14:54:00,Fully Charged,Not Scam
+937884,-29,10,201.02,Unlikely,Yes,0,91,Voip,2023-09-06 8:07:00,Fully Charged,Scam
+790811,629,18,308.55,Unlikely,Yes,4,MM,Voip,2023-06-20 23:29:00,Charging,Scam
+763876,676,6,0,Unlikely,Yes,4,65,Voip,2023-09-03 16:55:00,Charging,Not Scam
+443539,-601,15,0,Suspicious,Yes,2,95,Voip,2023-07-09 14:23:00,Not Charging,Scam
+719141,-318,18,73.67,Unlikely,Yes,2,95,Mobile,2023-06-23 16:31:00,Not Charging,Scam
+516950,-113,11,281.45,Unlikely,Yes,0,7,Landline,2024-02-26 11:55:00,Fully Charged,Scam
+378994,-119,15,6.09930655,Unlikely,Yes,3,1,Landline,2024-03-20 2:14:00,Fully Charged,Not Scam
+906094,-27,6,0,Unlikely,Yes,0,7,Voip,2023-06-27 12:26:00,Fully Charged,Not Scam
+672763,-48,13,392.32,Unlikely,Yes,0,91,Whats App,2023-12-13 1:35:00,Charging,Scam
+874363,-439,3,0,Unlikely,Yes,1,7,Landline,2023-05-30 6:42:00,Not Charging,Not Scam
+505651,107,3,20.16803193,Unlikely,Yes,4,65,Mobile,2024-01-16 16:00:00,Charging,Not Scam
+116613,-47,4,36.44,Unlikely,Yes,1,1,Voip,2023-09-21 12:07:00,Not Charging,Scam
+106212,630,9,516.37,Suspicious,Yes,0,MM,Whats App,2023-06-08 9:06:00,Charging,Scam
+682043,121,7,10.69,Unlikely,Yes,1,MM,Mobile,2023-11-05 17:17:00,Not Charging,Scam
+464880,34,10,1.007698701,Suspicious,Yes,5,91,Landline,2023-10-23 21:06:00,Fully Charged,Not Scam
+199051,-40,3,352.16,Suspicious,Yes,0,91,Landline,2023-02-10 0:17:00,Fully Charged,Scam
+604315,-41,17,0,Unlikely,Yes,1,MM,Whats App,2023-07-29 0:57:00,Charging,Scam
+384025,-132,13,0,Unlikely,Yes,2,7,WhatsApp,2023-08-09 9:41:00,Fully Charged,Scam
+184590,119,23,,Very Suspicious,Yes,0,95,Landline,2023-12-04 11:58:00,Not Charging,Not Scam
+698746,35,20,0,Unlikely,Yes,1,95,Landline,2023-12-27 6:42:00,Charging,Scam
+368058,-131,4,2.214271435,Unlikely,Yes,3,44,Landline,2023-10-27 12:51:00,Charging,Not Scam
+192750,-128,9,0,Unlikely,Yes,2,91,Landline,2023-05-26 14:31:00,Charging,Scam
+379744,31,4,23.08056674,Unlikely,Yes,4,44,Landline,2023-09-11 5:46:00,Not Charging,Not Scam
+415708,710,15,48.28709674,Unlikely,Yes,3,91,Voip,2023-04-23 6:12:00,Not Charging,Not Scam
+753068,-46,15,422.75,Suspicious,Yes,0,44,WhatsApp,2023-08-17 11:19:00,Charging,Scam
+257738,-113,22,0,Unlikely,Yes,3,95,Telegram,2023-05-01 23:50:00,Charging,Not Scam
+492592,-543,4,0,Unlikely,Yes,0,95,Voip,2023-09-18 13:29:00,Charging,Scam
+483775,650,2,111.13,Unlikely,Yes,0,7,Voip,2023-12-08 15:37:00,Charging,Scam
+120339,-30,13,0,Unlikely,Yes,1,7,Mobile,2023-03-12 13:45:00,Charging,Not Scam
+756210,-32,6,0,Unlikely,Yes,1,95,Voip,2024-01-18 23:31:00,Fully Charged,Scam
+589161,307,11,30.44305005,Unlikely,No,2,65,Landline,2023-07-19 10:46:00,Not Charging,Not Scam
+882484,126,12,72.34948833,Unlikely,No,0,65,Mobile,2023-10-01 17:26:00,Charging,Not Scam
+119356,129,22,688.04,Suspicious,Yes,0,MM,Landline,2023-03-13 11:54:00,Fully Charged,Scam
+467241,46,4,43.49784866,Unlikely,Yes,1,91,Mobile,2023-02-07 15:29:00,Charging,Not Scam
+156863,353,4,94.82178811,Unlikely,Yes,0,91,Whats App,2023-07-31 17:25:00,Fully Charged,Not Scam
+686819,125,8,-12.59153335,Unlikely,Yes,1,7,Telegram,2023-01-13 5:48:00,Charging,Not Scam
+389929,-91,22,0,Unlikely,Yes,1,44,Voip,2024-02-09 19:47:00,Charging,Scam
+681284,38,20,84.71552071,Unlikely,Yes,3,7,Mobile,2023-06-23 7:22:00,Not Charging,Not Scam
+563778,38,17,0,Suspicious,Yes,3,7,Telegram,2023-01-01 8:52:00,Fully Charged,Not Scam
+854723,-273,15,2.777059824,Unlikely,Yes,0,7,Mobile,2023-03-30 1:22:00,Charging,Not Scam
+157064,648,7,,Unlikely,No,2,65,Voip,2023-02-27 2:37:00,Not Charging,Not Scam
+329887,-658,19,,Unlikely,Yes,4,MM,Telegram,2023-11-26 10:02:00,Not Charging,Not Scam
+792893,36,21,13.28884359,Unlikely,Yes,2,MM,Mobile,2023-05-10 5:55:00,Not Charging,Not Scam
+874691,43,4,295.4,Unlikely,Yes,3,44,WhatsApp,2024-02-12 5:29:00,Not Charging,Scam
+980381,-31,7,0,Unlikely,Yes,7,1,Telegram,2024-01-27 7:09:00,Not Charging,Not Scam
+818499,-108,14,,Very Suspicious,Yes,0,65,Voip,2023-03-13 14:53:00,Fully Charged,Not Scam
+216874,39,4,31.80681015,Unlikely,Yes,3,91,Voip,2024-03-07 2:23:00,Charging,Not Scam
+502274,-337,6,0,Unlikely,Yes,1,91,Telegram,2023-01-06 15:39:00,Charging,Not Scam
+569114,-292,7,-248.65,Unlikely,Yes,1,95,Landline,2024-02-08 20:54:00,Not Charging,Scam
+444864,-41,15,415.4,Suspicious,Yes,3,44,Landline,2024-03-08 0:54:00,Charging,Scam
+259646,-112,4,,Very Suspicious,Yes,4,44,Landline,2023-04-24 11:41:00,Charging,Not Scam
+125687,122,3,0,Unlikely,Yes,3,44,Voip,2024-03-03 7:23:00,Not Charging,Not Scam
+821666,109,17,6.56442553,Very Suspicious,Yes,0,91,Mobile,2023-05-09 10:27:00,Not Charging,Not Scam
+512290,499,14,87.27,Unlikely,Yes,5,MM,Whats App,2023-08-14 16:32:00,Fully Charged,Scam
+299724,30,6,98.75242538,Unlikely,Yes,4,1,Whats App,2023-09-19 0:25:00,Charging,Not Scam
+468828,-266,3,0,Unlikely,Yes,0,95,Whats App,2023-08-07 2:58:00,Not Charging,Scam
+720496,-49,9,,Unlikely,Yes,2,MM,Mobile,2024-02-03 5:47:00,Charging,Not Scam
+801200,289,9,-12.77425657,Very Suspicious,Yes,2,1,Mobile,2023-12-19 1:59:00,Charging,Not Scam
+739580,102,14,,Unlikely,Yes,2,44,WhatsApp,2023-10-09 4:32:00,Charging,Not Scam
+625635,44,7,489.05,Suspicious,Yes,2,44,Voip,2024-02-28 10:16:00,Not Charging,Scam
+834105,290,9,373.34,Very Suspicious,Yes,5,91,Voip,2023-12-09 9:39:00,Not Charging,Scam
+795341,-50,6,53.97826544,Unlikely,Yes,5,91,Landline,2023-05-07 10:54:00,Charging,Not Scam
+883596,564,6,0,Unlikely,Yes,4,44,Mobile,2024-02-05 8:54:00,Not Charging,Not Scam
+864837,-83,19,375.83,Unlikely,Yes,4,1,Mobile,2024-02-04 11:53:00,Charging,Scam
+882547,-292,3,0,Unlikely,Yes,0,44,Voip,2023-05-18 6:53:00,Charging,Scam
+637275,-31,3,0,Unlikely,Yes,1,91,Mobile,2023-12-19 0:29:00,Fully Charged,Not Scam
+749631,-31,20,,Unlikely,Yes,3,1,WhatsApp,2023-07-19 22:28:00,Charging,Not Scam
+417734,49,18,,Very Suspicious,Yes,3,MM,Whats App,2023-02-27 11:43:00,Not Charging,Not Scam
+129454,29,10,0,Unlikely,Yes,5,7,Telegram,2023-04-12 22:34:00,Fully Charged,Not Scam
+560675,-536,15,639.51,Unlikely,No,0,65,Mobile,2023-03-05 21:27:00,Charging,Scam
+764698,-46,9,0,Unlikely,Yes,5,95,Whats App,2023-12-15 1:50:00,Not Charging,Scam
+236107,-346,10,0,Unlikely,Yes,0,44,Telegram,2024-02-22 2:40:00,Charging,Not Scam
+254805,29,9,0,Unlikely,Yes,0,1,Voip,2023-08-13 11:40:00,Fully Charged,Not Scam
+997221,119,3,,Unlikely,Yes,3,7,Voip,2023-12-16 21:18:00,Fully Charged,Not Scam
+877679,623,10,,Unlikely,Yes,3,91,Landline,2024-03-13 8:27:00,Charging,Not Scam
+625473,-29,4,0,Unlikely,Yes,3,7,Voip,2024-03-23 16:37:00,Fully Charged,Not Scam
+576300,237,7,0,Unlikely,Yes,2,7,Whats App,2023-02-25 19:07:00,Not Charging,Not Scam
+241948,26,10,,Unlikely,Yes,3,1,Mobile,2023-11-07 14:26:00,Charging,Not Scam
+970548,-584,7,,Suspicious,Yes,5,1,Mobile,2023-07-12 4:17:00,Not Charging,Not Scam
+578621,299,7,22.20366946,Unlikely,Yes,3,65,Landline,2023-10-16 22:17:00,Not Charging,Not Scam
+298602,-603,14,0,Unlikely,Yes,4,1,Mobile,2023-08-17 9:42:00,Not Charging,Not Scam
+456128,661,17,0,Unlikely,Yes,0,1,Voip,2023-05-15 9:47:00,Not Charging,Not Scam
+522987,-299,16,6.64181132,Unlikely,Yes,5,44,Voip,2023-12-14 6:20:00,Fully Charged,Not Scam
+675411,-109,19,,Unlikely,Yes,0,7,Mobile,2024-02-24 1:38:00,Fully Charged,Not Scam
+269001,-621,24,52.6,Unlikely,Yes,5,91,Whats App,2023-12-13 8:10:00,Not Charging,Scam
+162728,48,3,0,Unlikely,No,0,65,Voip,2024-02-16 17:35:00,Charging,Not Scam
+205978,709,21,0,Very Suspicious,Yes,5,91,Telegram,2023-08-26 10:11:00,Charging,Scam
+496526,110,9,0,Very Suspicious,No,1,65,Mobile,2023-06-21 14:35:00,Charging,Not Scam
+485753,-32,12,,Unlikely,Yes,1,44,Landline,2023-03-01 16:24:00,Charging,Not Scam
+888300,234,10,0,Very Suspicious,Yes,4,7,Voip,2023-09-07 10:23:00,Not Charging,Not Scam
+303195,475,12,63.21415172,Suspicious,Yes,5,7,WhatsApp,2023-07-19 21:05:00,Fully Charged,Not Scam
+668750,253,13,15.04,Unlikely,Yes,5,65,Whats App,2023-10-31 23:14:00,Fully Charged,Scam
+379825,-48,10,0,Unlikely,Yes,1,95,Voip,2023-11-28 13:17:00,Not Charging,Scam
+919759,116,10,658.74,Very Suspicious,No,2,65,Telegram,2023-03-15 22:28:00,Charging,Scam
+706537,31,21,538.14,Suspicious,Yes,2,44,Mobile,2024-03-28 22:45:00,Charging,Scam
+626675,561,10,0,Unlikely,Yes,0,44,Landline,2023-02-04 8:24:00,Not Charging,Not Scam
+700413,-283,5,137.72,Unlikely,Yes,3,91,Voip,2024-01-03 19:14:00,Not Charging,Scam
+553936,662,13,0,Unlikely,Yes,0,7,Landline,2023-01-14 10:24:00,Charging,Not Scam
+716968,660,15,59.91649866,Suspicious,Yes,0,91,Telegram,2024-01-25 5:08:00,Fully Charged,Not Scam
+849681,33,6,0,Unlikely,Yes,0,91,Landline,2023-02-18 4:55:00,Charging,Not Scam
+226056,-291,20,5.22,Unlikely,Yes,5,95,Landline,2023-05-07 11:36:00,Not Charging,Scam
+503870,-34,21,0,Unlikely,No,1,65,Landline,2024-03-27 11:24:00,Charging,Not Scam
+870350,39,19,31.58015896,Unlikely,Yes,1,65,Telegram,2023-11-19 18:19:00,Not Charging,Not Scam
+150401,28,9,0,Very Suspicious,Yes,3,1,Landline,2024-03-27 22:35:00,Fully Charged,Not Scam
+528904,-27,10,513.18,Unlikely,Yes,1,1,Voip,2023-08-27 22:58:00,Charging,Scam
+585573,-29,20,,Suspicious,Yes,4,1,Mobile,2023-01-10 9:10:00,Charging,Not Scam
+900013,603,14,3.084139949,Unlikely,Yes,0,1,Landline,2024-03-19 14:05:00,Not Charging,Not Scam
+317581,-115,13,46.54969397,Unlikely,Yes,0,1,Mobile,2023-08-30 5:11:00,Not Charging,Not Scam
+909893,508,8,,Unlikely,Yes,3,65,WhatsApp,2023-03-01 23:33:00,Fully Charged,Not Scam
+158198,131,4,0,Unlikely,Yes,4,91,Mobile,2023-10-19 3:10:00,Charging,Scam
+864240,581,21,,Unlikely,No,0,65,Mobile,2023-03-04 3:07:00,Fully Charged,Not Scam
+679597,30,3,98.62448089,Unlikely,Yes,2,44,Mobile,2023-03-02 4:24:00,Charging,Not Scam
+352001,315,6,0,Unlikely,Yes,3,95,Landline,2024-02-08 19:43:00,Charging,Not Scam
+625304,32,7,0,Suspicious,Yes,1,7,WhatsApp,2023-02-22 20:32:00,Fully Charged,Scam
+749223,107,11,0,Very Suspicious,Yes,2,44,WhatsApp,2023-09-17 10:49:00,Not Charging,Not Scam
+283260,-48,6,44.81072982,Very Suspicious,Yes,3,7,WhatsApp,2023-06-11 20:15:00,Fully Charged,Not Scam
+799785,570,16,0,Unlikely,Yes,0,44,Voip,2023-08-08 14:23:00,Charging,Not Scam
+749930,-700,21,80.49139378,Unlikely,Yes,0,65,Voip,2023-09-05 19:45:00,Charging,Scam
+280306,37,9,0,Unlikely,Yes,3,7,WhatsApp,2023-05-08 4:25:00,Not Charging,Not Scam
+335233,-43,15,0,Unlikely,Yes,2,7,Voip,2023-08-13 21:25:00,Fully Charged,Scam
+802332,-29,8,,Unlikely,Yes,0,7,Whats App,2023-06-03 21:15:00,Fully Charged,Not Scam
+946484,114,5,450.55,Very Suspicious,Yes,5,44,Whats App,2023-01-06 21:22:00,Not Charging,Scam
+766885,593,10,0,Unlikely,Yes,3,7,Mobile,2023-01-12 13:11:00,Charging,Not Scam
+553210,-273,10,0,Unlikely,Yes,3,65,Landline,2023-03-21 0:49:00,Not Charging,Not Scam
+556984,284,3,31.39019885,Unlikely,No,1,65,Telegram,2023-10-19 0:05:00,Charging,Not Scam
+537760,41,15,79.48445309,Unlikely,Yes,0,91,Telegram,2023-05-19 6:25:00,Charging,Not Scam
+318819,40,4,249.06,Suspicious,Yes,1,44,Telegram,2024-01-20 10:17:00,Fully Charged,Scam
+880205,-110,15,158.78,Unlikely,Yes,3,7,WhatsApp,2023-10-11 15:49:00,Not Charging,Scam
+133317,31,13,,Unlikely,Yes,0,7,WhatsApp,2024-01-10 12:54:00,Fully Charged,Not Scam
+412932,31,11,0,Unlikely,Yes,0,MM,Voip,2023-12-06 20:06:00,Not Charging,Not Scam
+901669,337,4,0,Unlikely,Yes,2,65,Whats App,2023-08-20 16:42:00,Fully Charged,Scam
+775734,102,10,20.92686861,Unlikely,Yes,2,44,Whats App,2023-10-09 21:39:00,Fully Charged,Not Scam
+672738,622,7,79.15580668,Unlikely,Yes,0,MM,Mobile,2024-02-27 7:08:00,Charging,Not Scam
+772028,270,11,0,Unlikely,Yes,1,7,Voip,2023-09-18 18:52:00,Fully Charged,Scam
+838968,27,7,,Unlikely,Yes,2,95,Whats App,2024-02-06 21:50:00,Not Charging,Not Scam
+355875,311,10,13.00651203,Unlikely,Yes,2,44,Voip,2023-02-25 17:09:00,Not Charging,Not Scam
+925262,33,8,137.44,Unlikely,Yes,3,MM,Telegram,2024-01-14 7:14:00,Not Charging,Scam
+619078,27,10,0,Very Suspicious,Yes,4,1,Telegram,2023-09-09 22:39:00,Not Charging,Not Scam
+973098,32,12,0,Unlikely,No,0,65,WhatsApp,2023-01-16 13:00:00,Not Charging,Not Scam
+539654,-630,22,0,Unlikely,Yes,3,MM,Landline,2023-08-28 14:02:00,Not Charging,Scam
+853656,-30,14,0,Unlikely,Yes,5,MM,Whats App,2023-06-19 19:25:00,Charging,Not Scam
+589810,665,14,72.23843494,Unlikely,No,2,65,WhatsApp,2023-02-20 7:56:00,Not Charging,Not Scam
+563162,102,10,0,Unlikely,Yes,0,44,Voip,2023-04-03 15:49:00,Not Charging,Not Scam
+739537,28,20,75.29215501,Suspicious,Yes,5,1,Voip,2023-03-06 10:17:00,Fully Charged,Not Scam
+641680,-34,15,8.422794898,Unlikely,Yes,0,1,Mobile,2024-01-11 2:38:00,Charging,Not Scam
+204140,606,19,389.07,Very Suspicious,Yes,2,95,WhatsApp,2023-02-07 13:04:00,Not Charging,Scam
+273246,252,8,,Unlikely,Yes,0,91,Landline,2023-12-31 8:10:00,Not Charging,Not Scam
+157721,314,9,0,Unlikely,Yes,4,91,Landline,2023-04-08 14:26:00,Fully Charged,Not Scam
+406744,-121,6,23.85158514,Suspicious,No,6,65,Telegram,2023-08-04 9:51:00,Not Charging,Not Scam
+697900,-45,3,0,Very Suspicious,Yes,0,7,Voip,2023-03-27 11:57:00,Charging,Not Scam
+643675,22,7,89.25247033,Unlikely,Yes,2,91,Mobile,2024-02-14 6:17:00,Fully Charged,Not Scam
+403017,-45,11,58.58763629,Unlikely,Yes,5,44,Voip,2023-06-28 12:59:00,Charging,Not Scam
+418776,140,15,532.96,Unlikely,Yes,1,7,Landline,2023-12-01 22:31:00,Not Charging,Scam
+897476,-314,4,0,Unlikely,Yes,3,91,Telegram,2024-03-07 22:32:00,Fully Charged,Scam
+444715,138,19,137.77,Unlikely,Yes,3,91,Voip,2023-09-09 19:52:00,Charging,Scam
+226747,353,19,10.27746092,Unlikely,Yes,3,1,Voip,2023-06-05 3:45:00,Charging,Not Scam
+292531,117,4,51.35171271,Unlikely,Yes,0,91,Whats App,2023-08-03 8:36:00,Not Charging,Not Scam
+952862,45,22,48.04922376,Unlikely,Yes,0,65,Landline,2023-11-18 12:35:00,Not Charging,Not Scam
+442994,822,3,0,Unlikely,Yes,1,MM,Telegram,2023-11-11 7:39:00,Charging,Scam
+489118,-265,9,0,Suspicious,Yes,1,44,Mobile,2024-02-04 12:31:00,Not Charging,Not Scam
+605987,48,3,99.55083915,Unlikely,Yes,1,91,WhatsApp,2023-07-16 9:45:00,Charging,Not Scam
+937619,301,8,146.58,Suspicious,No,2,65,Whats App,2023-10-08 16:06:00,Charging,Scam
+540958,125,12,529.53,Very Suspicious,Yes,4,7,Voip,2023-01-07 21:03:00,Charging,Scam
+504177,26,17,0,Unlikely,Yes,0,91,WhatsApp,2023-02-25 9:43:00,Not Charging,Scam
+830320,108,15,-99.9873276,Unlikely,Yes,0,44,Landline,2023-06-24 11:49:00,Fully Charged,Not Scam
+490526,-335,4,0,Unlikely,Yes,1,1,Mobile,2024-01-25 8:59:00,Charging,Not Scam
+453528,29,3,490.3,Suspicious,Yes,3,91,Voip,2023-02-15 12:52:00,Fully Charged,Scam
+137341,29,9,0,Unlikely,Yes,2,91,Voip,2023-08-04 16:33:00,Not Charging,Not Scam
+587726,104,4,0,Unlikely,Yes,0,1,WhatsApp,2023-06-20 7:02:00,Charging,Not Scam
+832116,-47,17,,Unlikely,Yes,1,1,Mobile,2023-09-09 10:34:00,Fully Charged,Not Scam
+653665,31,15,63.19352556,Suspicious,Yes,0,7,Mobile,2023-03-29 10:30:00,Fully Charged,Not Scam
+668272,-613,18,43.14096292,Suspicious,No,2,65,Whats App,2023-05-26 8:37:00,Fully Charged,Not Scam
+974679,299,10,0,Unlikely,Yes,3,1,Landline,2023-11-24 9:21:00,Fully Charged,Not Scam
+853057,45,10,455.44,Suspicious,Yes,0,7,Telegram,2023-07-07 12:36:00,Not Charging,Scam
+245593,-26,3,60.54072824,Unlikely,Yes,1,7,Mobile,2024-02-28 13:24:00,Fully Charged,Not Scam
+203841,-125,18,83.87,Unlikely,Yes,1,95,Voip,2023-05-30 0:41:00,Not Charging,Scam
+320017,687,9,0,Unlikely,Yes,3,7,Mobile,2023-06-26 21:27:00,Not Charging,Not Scam
+138649,43,4,82.24409606,Suspicious,Yes,0,65,Voip,2024-02-06 6:00:00,Fully Charged,Not Scam
+123308,-268,17,41.43392074,Unlikely,Yes,5,1,Landline,2023-10-05 0:51:00,Fully Charged,Not Scam
+994341,45,19,0,Unlikely,Yes,1,1,Voip,2023-03-12 18:46:00,Fully Charged,Not Scam
+490538,-39,7,0,Unlikely,Yes,2,MM,Landline,2023-10-10 16:18:00,Not Charging,Scam
+269402,556,3,0,Unlikely,No,1,65,Mobile,2023-09-12 23:30:00,Charging,Not Scam
+965063,-288,9,0,Unlikely,Yes,5,91,Voip,2023-09-02 2:59:00,Not Charging,Not Scam
+712360,-667,3,0,Unlikely,Yes,0,7,Mobile,2023-08-08 17:34:00,Charging,Not Scam
+645289,692,8,222.1,Unlikely,Yes,0,MM,Mobile,2023-07-13 21:37:00,Charging,Scam
+250121,-46,14,0,Unlikely,Yes,3,65,Mobile,2024-03-16 2:38:00,Fully Charged,Not Scam
+686172,137,14,0,Unlikely,Yes,4,95,Voip,2023-06-19 11:29:00,Fully Charged,Not Scam
+699110,-278,8,35.00911366,Unlikely,Yes,4,91,Voip,2023-01-11 6:19:00,Not Charging,Not Scam
+305606,47,6,,Unlikely,Yes,1,44,Mobile,2023-07-19 14:52:00,Fully Charged,Not Scam
+671394,-263,10,,Unlikely,Yes,4,44,Voip,2023-12-11 2:52:00,Fully Charged,Not Scam
+373777,292,15,40.70654065,Unlikely,Yes,0,MM,Voip,2023-11-10 13:46:00,Not Charging,Not Scam
+150152,27,17,99.29486129,Unlikely,Yes,6,91,Whats App,2023-08-21 12:39:00,Not Charging,Not Scam
+491397,-587,22,0,Unlikely,Yes,1,MM,Whats App,2023-10-09 17:05:00,Fully Charged,Scam
+511889,-118,15,225.83,Suspicious,Yes,1,7,Mobile,2024-01-13 2:58:00,Charging,Scam
+538959,-34,8,0,Unlikely,Yes,0,91,Mobile,2023-04-01 3:48:00,Charging,Not Scam
+708390,100,6,0,Unlikely,Yes,4,44,Mobile,2023-06-03 3:39:00,Fully Charged,Not Scam
+468539,-267,4,67.38827276,Very Suspicious,Yes,2,MM,Mobile,2023-10-14 10:25:00,Fully Charged,Not Scam
+724365,-647,21,0,Unlikely,Yes,2,1,Mobile,2023-10-04 16:54:00,Not Charging,Not Scam
+322875,293,15,0,Unlikely,Yes,0,91,Telegram,2023-09-18 1:04:00,Not Charging,Scam
+990514,122,10,23.67228663,Unlikely,Yes,0,91,Telegram,2023-07-27 9:05:00,Not Charging,Not Scam
+560287,111,18,0,Unlikely,Yes,1,1,Whats App,2023-07-28 10:44:00,Fully Charged,Scam
+202084,48,7,0,Unlikely,Yes,1,91,Mobile,2023-08-16 18:44:00,Fully Charged,Not Scam
+766708,-280,6,243.93,Unlikely,Yes,0,7,Landline,2023-11-02 11:34:00,Not Charging,Scam
+923336,49,7,24.52928286,Unlikely,Yes,3,7,Voip,2023-09-16 8:14:00,Fully Charged,Not Scam
+802361,46,6,821.21,Suspicious,Yes,0,MM,Telegram,2023-07-01 3:57:00,Fully Charged,Scam
+872602,311,14,299.45,Unlikely,Yes,1,44,WhatsApp,2023-03-17 1:50:00,Charging,Scam
+600989,110,6,0,Unlikely,Yes,0,44,Mobile,2023-07-22 21:12:00,Charging,Not Scam
+903310,-537,6,326.58,Very Suspicious,Yes,5,MM,Landline,2023-04-07 20:42:00,Not Charging,Scam
+646388,574,20,0,Suspicious,Yes,4,91,WhatsApp,2023-06-02 4:25:00,Charging,Scam
+984483,581,13,,Suspicious,Yes,0,7,Mobile,2023-01-27 11:30:00,Not Charging,Not Scam
+143595,558,7,0,Unlikely,Yes,0,7,Landline,2024-02-15 12:08:00,Not Charging,Not Scam
+928535,-320,20,0,Suspicious,Yes,3,MM,WhatsApp,2023-09-15 4:11:00,Fully Charged,Scam
+663990,-42,7,,Suspicious,Yes,0,7,Whats App,2024-03-08 4:13:00,Fully Charged,Not Scam
+113065,30,10,0,Suspicious,Yes,1,7,Telegram,2023-09-19 21:08:00,Not Charging,Not Scam
+148485,30,3,259.07,Unlikely,Yes,3,MM,Voip,2024-02-21 21:28:00,Charging,Scam
+911459,31,11,0,Unlikely,Yes,1,7,Telegram,2023-11-26 22:51:00,Not Charging,Not Scam
+858658,275,6,18.88,Unlikely,Yes,0,65,Whats App,2023-04-04 12:44:00,Fully Charged,Scam
+702191,-44,7,39.05,Suspicious,Yes,5,91,Telegram,2023-03-02 2:21:00,Not Charging,Scam
+679236,-299,3,-76.40060946,Unlikely,Yes,3,95,Mobile,2023-03-20 8:53:00,Charging,Not Scam
+972086,-47,4,66.66742365,Suspicious,Yes,2,7,Mobile,2023-03-13 16:59:00,Not Charging,Not Scam
+788362,28,12,0,Unlikely,Yes,0,44,Mobile,2023-11-13 19:19:00,Not Charging,Not Scam
+973169,-540,10,,Unlikely,Yes,1,MM,Telegram,2023-07-06 20:55:00,Not Charging,Not Scam
+251585,604,3,27.12646471,Unlikely,Yes,4,65,Landline,2023-03-03 15:17:00,Not Charging,Not Scam
+682855,112,7,92.15102045,Unlikely,Yes,1,1,Voip,2024-02-15 14:32:00,Not Charging,Not Scam
+606418,-319,7,0,Unlikely,Yes,0,91,Landline,2023-11-17 7:43:00,Charging,Not Scam
+619914,-43,9,190.58,Unlikely,Yes,1,91,WhatsApp,2023-04-03 3:26:00,Charging,Scam
+225353,37,7,,Unlikely,Yes,5,95,Landline,2024-01-16 10:11:00,Fully Charged,Not Scam
+551403,138,7,,Unlikely,Yes,1,MM,Landline,2023-08-11 4:09:00,Fully Charged,Not Scam
+966447,-46,6,0,Very Suspicious,Yes,0,44,Mobile,2023-01-02 11:35:00,Charging,Not Scam
+567299,609,13,0,Unlikely,Yes,0,MM,Landline,2023-03-25 18:59:00,Charging,Scam
+367385,100,14,0,Unlikely,Yes,5,1,Mobile,2023-11-16 17:34:00,Not Charging,Not Scam
+574877,119,9,99.32,Unlikely,Yes,1,MM,Voip,2023-12-30 19:25:00,Not Charging,Scam
+783784,128,8,0,Unlikely,Yes,2,MM,Telegram,2024-03-29 10:28:00,Fully Charged,Scam
+171449,29,20,89.41431087,Unlikely,Yes,5,7,Mobile,2023-08-11 15:03:00,Charging,Not Scam
+435553,29,4,0,Suspicious,Yes,0,65,WhatsApp,2023-08-12 8:13:00,Fully Charged,Scam
+817754,-31,13,57.01511589,Unlikely,Yes,0,7,WhatsApp,2023-08-10 12:39:00,Charging,Not Scam
+331143,349,15,34.6075077,Unlikely,Yes,0,44,Voip,2024-03-17 23:55:00,Charging,Not Scam
+398953,123,7,0,Unlikely,Yes,3,65,Whats App,2023-01-22 3:54:00,Not Charging,Not Scam
+394786,-140,6,0,Unlikely,Yes,0,44,Landline,2023-10-17 17:53:00,Charging,Not Scam
+742501,-29,6,0,Very Suspicious,Yes,3,91,Landline,2023-01-22 22:07:00,Not Charging,Not Scam
+467491,-272,8,25.3411181,Unlikely,Yes,4,MM,Mobile,2023-04-23 5:31:00,Charging,Not Scam
+880237,311,3,452.12,Very Suspicious,Yes,0,1,Whats App,2023-02-05 11:07:00,Not Charging,Scam
+280430,109,14,0,Unlikely,Yes,0,1,Landline,2023-03-27 0:57:00,Fully Charged,Not Scam
+800282,127,6,,Suspicious,Yes,3,7,Mobile,2024-01-29 22:21:00,Fully Charged,Not Scam
+262523,-600,7,0,Unlikely,Yes,2,44,Telegram,2024-02-27 17:05:00,Fully Charged,Not Scam
+816126,-127,17,-35.97706127,Unlikely,Yes,0,1,Mobile,2023-06-20 15:12:00,Fully Charged,Not Scam
+211596,-560,16,67.77650266,Unlikely,Yes,3,91,Mobile,2023-11-05 1:03:00,Not Charging,Not Scam
+450862,615,8,8.509675457,Unlikely,Yes,5,7,Mobile,2023-01-22 15:34:00,Not Charging,Not Scam
+401560,-565,8,0,Unlikely,Yes,4,91,Mobile,2024-01-09 12:57:00,Fully Charged,Scam
+944416,623,11,,Unlikely,Yes,3,44,Whats App,2024-03-21 16:42:00,Charging,Not Scam
+266659,48,17,188.01,Unlikely,Yes,1,95,Voip,2023-08-28 7:58:00,Fully Charged,Scam
+401966,-328,6,0,Unlikely,Yes,2,1,WhatsApp,2024-03-28 18:00:00,Fully Charged,Not Scam
+499705,42,9,19.86,Unlikely,Yes,3,91,WhatsApp,2023-07-24 20:22:00,Charging,Scam
+562832,315,22,0,Unlikely,Yes,0,95,Landline,2023-11-22 14:35:00,Charging,Not Scam
+233621,-296,23,0,Unlikely,Yes,5,91,Mobile,2023-11-02 14:40:00,Not Charging,Scam
+970842,129,13,52.2181313,Unlikely,Yes,3,95,WhatsApp,2024-01-11 19:46:00,Fully Charged,Not Scam
+753909,-51,14,56.90516301,Unlikely,Yes,1,91,Mobile,2023-07-20 2:06:00,Not Charging,Not Scam
+941890,619,6,57.9,Unlikely,Yes,1,1,Whats App,2024-01-04 17:00:00,Fully Charged,Scam
+989377,-597,19,333.66,Very Suspicious,Yes,1,1,Voip,2024-02-14 21:45:00,Fully Charged,Scam
+271996,-583,3,,Suspicious,Yes,1,65,Mobile,2023-02-28 4:19:00,Charging,Not Scam
+902392,30,15,18.83998408,Unlikely,Yes,1,91,Mobile,2023-10-17 12:30:00,Charging,Not Scam
+919975,630,3,,Unlikely,Yes,4,65,Telegram,2023-03-24 7:11:00,Fully Charged,Not Scam
+575489,-26,19,0,Unlikely,Yes,1,MM,Telegram,2023-12-13 5:05:00,Fully Charged,Scam
+170950,-338,13,0,Unlikely,No,5,65,WhatsApp,2023-06-22 13:05:00,Not Charging,Not Scam
+882340,123,6,22.7,Unlikely,Yes,0,91,Landline,2024-02-04 2:56:00,Not Charging,Scam
+409464,-32,15,,Unlikely,Yes,1,44,Mobile,2023-04-02 9:17:00,Fully Charged,Not Scam
+727020,-584,18,0,Suspicious,Yes,2,7,Voip,2024-03-21 2:40:00,Fully Charged,Not Scam
+150890,-33,19,,Unlikely,Yes,2,1,Mobile,2023-03-11 15:51:00,Charging,Not Scam
+197683,-297,16,0,Very Suspicious,Yes,4,1,Landline,2023-12-02 22:21:00,Charging,Not Scam
+429422,-135,15,,Unlikely,Yes,3,91,Mobile,2023-01-11 23:52:00,Fully Charged,Not Scam
+600901,45,17,75.55919523,Suspicious,Yes,7,1,WhatsApp,2023-05-27 10:31:00,Fully Charged,Not Scam
+511095,285,18,0,Unlikely,No,1,65,WhatsApp,2024-01-16 9:29:00,Fully Charged,Not Scam
+805935,100,11,,Unlikely,Yes,2,7,Mobile,2023-11-28 10:55:00,Charging,Not Scam
+400822,89,21,11.57309362,Unlikely,Yes,3,7,Mobile,2023-02-21 4:06:00,Fully Charged,Not Scam
+114310,-548,7,,Suspicious,Yes,2,7,Voip,2023-02-05 3:43:00,Not Charging,Not Scam
+680165,131,14,411.09,Unlikely,Yes,2,65,WhatsApp,2023-09-28 22:31:00,Charging,Scam
+539765,-137,7,87.03730604,Very Suspicious,Yes,1,7,Mobile,2024-01-14 10:07:00,Charging,Not Scam
+913941,-46,4,0,Unlikely,Yes,3,1,Voip,2023-09-15 17:35:00,Fully Charged,Not Scam
+223517,35,16,0,Very Suspicious,Yes,1,1,Landline,2023-08-22 11:47:00,Fully Charged,Not Scam
+199976,610,7,,Unlikely,Yes,3,91,Voip,2023-04-15 12:05:00,Charging,Not Scam
+678044,119,10,109.36,Suspicious,Yes,0,MM,Mobile,2024-01-16 17:35:00,Fully Charged,Scam
+139190,-30,16,66.21835406,Unlikely,No,2,65,WhatsApp,2023-06-25 10:18:00,Fully Charged,Not Scam
+343541,120,19,15.04705266,Unlikely,Yes,2,44,Voip,2024-01-24 15:58:00,Not Charging,Not Scam
+265755,261,18,575.94,Unlikely,Yes,4,91,Telegram,2023-02-20 10:24:00,Not Charging,Scam
+505077,307,9,-92.49948806,Unlikely,Yes,1,65,Whats App,2023-02-23 22:32:00,Fully Charged,Not Scam
+737062,-100,16,75.54718728,Unlikely,Yes,0,95,Whats App,2024-03-02 8:53:00,Fully Charged,Not Scam
+986243,46,6,44.25070418,Unlikely,Yes,0,91,Mobile,2023-10-31 3:35:00,Not Charging,Not Scam
+597621,-24,4,686.15,Very Suspicious,Yes,5,MM,WhatsApp,2023-04-26 4:11:00,Not Charging,Scam
+639141,-45,14,63.73747672,Unlikely,No,1,65,Whats App,2023-04-07 18:18:00,Charging,Not Scam
+733580,-40,19,742.75,Suspicious,Yes,2,MM,Whats App,2023-06-26 11:55:00,Not Charging,Scam
+175903,-137,14,32.18206469,Unlikely,Yes,0,7,Mobile,2024-03-08 1:01:00,Not Charging,Not Scam
+103269,-115,4,0,Unlikely,Yes,0,91,WhatsApp,2024-03-18 22:06:00,Charging,Scam
+865623,603,19,27.3,Unlikely,Yes,0,MM,Mobile,2023-09-26 13:51:00,Fully Charged,Scam
+750135,-41,7,23.5148912,Very Suspicious,Yes,0,44,WhatsApp,2023-05-31 3:57:00,Not Charging,Not Scam
+184795,-46,4,30.93670747,Very Suspicious,Yes,2,MM,Whats App,2023-06-22 21:12:00,Charging,Not Scam
+867527,280,21,0,Unlikely,Yes,0,7,Whats App,2023-05-15 4:32:00,Charging,Scam
+828105,30,12,0,Suspicious,Yes,3,7,WhatsApp,2023-04-02 20:34:00,Not Charging,Scam
+982130,120,3,,Suspicious,Yes,0,95,WhatsApp,2023-09-04 18:30:00,Fully Charged,Not Scam
+489589,-126,7,0,Unlikely,Yes,0,44,Landline,2023-04-24 4:53:00,Not Charging,Not Scam
+292984,-33,10,0,Unlikely,Yes,1,91,Mobile,2023-02-03 17:07:00,Not Charging,Scam
+903537,-563,4,64.2874777,Unlikely,Yes,3,91,Telegram,2023-02-25 10:41:00,Fully Charged,Not Scam
+248580,33,15,,Unlikely,Yes,4,1,Voip,2023-02-04 10:16:00,Not Charging,Not Scam
+851167,268,14,84.23428178,Unlikely,Yes,0,44,Telegram,2023-10-30 23:11:00,Not Charging,Not Scam
+253087,-112,14,362.4,Unlikely,Yes,0,91,Whats App,2023-09-07 10:02:00,Charging,Scam
+879565,117,3,0,Unlikely,Yes,2,MM,Telegram,2023-02-19 0:32:00,Fully Charged,Scam
+428774,-37,15,414.61,Very Suspicious,No,1,65,Voip,2023-12-10 21:46:00,Not Charging,Scam
+296584,-326,3,562.81,Suspicious,Yes,3,7,Landline,2023-04-17 11:06:00,Charging,Scam
+161853,-541,6,0,Unlikely,Yes,0,44,Whats App,2023-01-28 10:27:00,Charging,Scam
+515170,43,18,,Unlikely,Yes,2,7,Landline,2023-01-03 10:07:00,Charging,Not Scam
+832431,-26,6,496.82,Suspicious,Yes,0,MM,Landline,2023-07-17 10:54:00,Not Charging,Scam
+425175,140,6,0,Unlikely,Yes,0,91,Telegram,2023-07-05 2:22:00,Charging,Not Scam
+475788,28,4,-633.99,Very Suspicious,Yes,1,1,Mobile,2023-04-07 21:45:00,Charging,Scam
+909445,32,9,624.6,Suspicious,Yes,4,65,Voip,2023-02-11 21:57:00,Fully Charged,Scam
+802259,113,18,,Very Suspicious,Yes,7,1,Mobile,2023-10-02 13:12:00,Fully Charged,Not Scam
+496033,116,15,,Unlikely,Yes,4,7,Voip,2023-05-03 14:32:00,Fully Charged,Not Scam
+730960,621,3,11.74,Suspicious,Yes,0,MM,Landline,2023-08-04 0:16:00,Fully Charged,Scam
+806410,-27,4,102.45,Suspicious,Yes,0,MM,Voip,2024-03-22 1:31:00,Not Charging,Scam
+481032,-127,9,,Unlikely,Yes,0,1,Landline,2023-07-11 17:04:00,Charging,Not Scam
+507774,505,4,0,Unlikely,Yes,5,44,Telegram,2024-02-13 0:33:00,Charging,Not Scam
