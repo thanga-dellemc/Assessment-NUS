@@ -14,3 +14,7 @@ Had challenges with String/test Columns in the database.
 Got some help from Google Colab and Gemini, still could not run both algorithms with given data inclufing text.
 But watched a youtube video using both algorithm with numeric data and successfully deploying training, test, evaluation and plot results.
 Used few libraries Panda, Skilearn.
+
+
+https://colab.research.google.com/drive/1DedxBnce3ly3fdW-OxJcFKYlUTMThXBr#scrollTo=ckl2r-NLJ8s_
+
